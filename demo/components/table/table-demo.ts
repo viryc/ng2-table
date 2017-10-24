@@ -36,6 +36,21 @@ export class TableDemoComponent implements OnInit {
     className: ['table-striped', 'table-bordered']
   };
 
+  public editConfig: any = {
+    edit: {
+      className: 'btn btn-rounded btn-success',
+      icon: 'fa fa-pencil-square'
+    },
+    delete: {
+      className: 'btn btn-danger',
+      title: 'Delete'
+    },
+    select: {
+      name: 'selection',
+      keyProperty: 'name'
+    }
+  }
+
   private data:Array<any> = TableData;
 
   public constructor() {
@@ -135,6 +150,18 @@ export class TableDemoComponent implements OnInit {
   }
 
   public onCellClick(data: any): any {
+    console.log(data);
+  }
+
+  public onEditClick(row: any): any {
+    console.log(row);
+  }
+
+  public onDeleteClick(row: any): any {
+    console.log(row);
+  }
+
+  public onSelectChange(data: any): any {
     console.log(data);
   }
 }

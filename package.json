@@ -36,17 +36,19 @@
     "filter",
     "sort"
   ],
-  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>, Kevin Lluch <lluchmk@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ng2-table.git"
+    "url": "git+ssh://git@github.com/lluchmk/ng2-table"
   },
   "bugs": {
-    "url": "https://github.com/valor-software/ng2-table/issues"
+    "url": "https://github.com/lluchmk/ng2-table/issues"
   },
-  "homepage": "https://github.com/valor-software/ng2-table#readme",
-  "dependencies": {},
+  "homepage": "https://github.com/lluchmk/ng2-table#readme",
+  "dependencies": {
+    "@angular/cli": "^1.4.9"
+  },
   "peerDependencies": {
     "@angular/common": "^2.0.0",
     "@angular/compiler": "^2.0.0",

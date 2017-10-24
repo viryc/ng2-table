@@ -8,6 +8,9 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
            role="grid" style="width: 100%;">
       <thead>
         <tr role="row">
+          <th *ngIf="editConfig.show">
+            {{ editConfig.title }}
+          </th>
           <th *ngFor="let column of columns" [ngTableSorting]="config" [column]="column" 
               (sortChanged)="onChangeTable($event)" ngClass="{{column.className || ''}}">
             {{column.title}}
@@ -18,6 +21,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
       </thead>
       <tbody>
       <tr *ngIf="showFilterRow">
+        <td *ngIf="editConfig.show"></td>
         <td *ngFor="let column of columns">
           <input *ngIf="column.filtering" placeholder="{{column.filtering.placeholder}}"
                  [ngTableFiltering]="column.filtering"
@@ -27,6 +31,11 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
         </td>
       </tr>
         <tr *ngFor="let row of rows">
+          <td *ngIf="editConfig.show" ngClass="{{editConfig.className || ''}}">
+            <input *ngIf="editConfig.select" type="checkbox" [name]="editConfig.select.name" [id]="row[editConfig.select.keyProperty]" (change)="onSelectChange($event.target.checked, row[editConfig.select.keyProperty])" />
+            <button *ngIf="editConfig.edit" type="button" ngClass="{{editConfig.edit.className || ''}}" (click)="onEdit(row)"><span *ngIf="editConfig.edit.icon" [class]="editConfig.edit.icon"></span>{{ editConfig.edit.title }}</button>
+            <button *ngIf="editConfig.delete" type="button" ngClass="{{editConfig.delete.className || ''}}" (click)="onDelete(row)"><span *ngIf="editConfig.delete.icon" [class]="editConfig.delete.icon"></span>{{ editConfig.delete.title }}</button>
+          </td>
           <td (click)="cellClick(row, column.name)" *ngFor="let column of columns" [innerHtml]="sanitize(getData(row, column.name))"></td>
         </tr>
       </tbody>
@@ -51,6 +60,9 @@ export class NgTableComponent {
   // Outputs (Events)
   @Output() public tableChanged:EventEmitter<any> = new EventEmitter();
   @Output() public cellClicked:EventEmitter<any> = new EventEmitter();
+  @Output() public editClicked: EventEmitter<any> = new EventEmitter();
+  @Output() public deleteClicked: EventEmitter<any> = new EventEmitter();
+  @Output() public selectChange: EventEmitter<any> = new EventEmitter();
 
   public showFilterRow:Boolean = false;
 
@@ -73,8 +85,39 @@ export class NgTableComponent {
     });
   }
 
+  @Input()
+  public set editConfig(editConf: any) {
+    if (editConf.className instanceof Array) {
+      editConf.className = editConf.className.join(' ');
+    }
+    editConf.show = editConf.select || editConf.edit || editConf.delete;
+    if (editConf.edit) {
+      if (!editConf.edit.className) {
+        editConf.edit.className = 'btn'
+      }
+      if (editConf.edit.className instanceof Array) {
+        editConf.edit.className = editConf.edit.className.join(' ');
+      }
+    }
+    if (editConf.delete) {
+      if (!editConf.delete.className) {
+        editConf.delete.className = 'btn'
+      }
+      if (editConf.delete.className instanceof Array) {
+        editConf.delete.className = editConf.delete.className.join(' ');
+      }
+    }
+    if (editConf.select) {
+      if (editConf.select.className instanceof Array) {
+        editConf.select.className = editConf.select.className.join(' ');
+      }
+    }
+    this._editConfig = editConf;
+  }
+
   private _columns:Array<any> = [];
   private _config:any = {};
+  private _editConfig: any = {};
 
   public constructor(private sanitizer:DomSanitizer) {
   }
@@ -89,6 +132,10 @@ export class NgTableComponent {
 
   public get config():any {
     return this._config;
+  }
+
+  public get editConfig() {
+    return this._editConfig;
   }
 
   public get configColumns():any {
@@ -118,5 +165,17 @@ export class NgTableComponent {
 
   public cellClick(row:any, column:any):void {
     this.cellClicked.emit({row, column});
+  }
+
+  public onSelectChange(checked: boolean, key: any): void {
+    this.selectChange.emit({selected: checked, key: key});
+  }
+
+  public onEdit(row: any):void {
+    this.editClicked.emit(row);
+  }
+
+  public onDelete(row: any): void {
+    this.deleteClicked.emit(row);
   }
 }
