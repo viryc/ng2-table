@@ -49,7 +49,7 @@ export class TableDemoComponent implements OnInit {
       name: 'selection',
       keyProperty: 'name'
     }
-  }
+  };
 
   private data:Array<any> = TableData;
 

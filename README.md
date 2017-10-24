@@ -1,11 +1,11 @@
-# ng2-table  with eidition options 
+# ng2-table  with edition options 
 Fork of [ng2-table](https://github.com/valor-software/ng2-table) including a config object to render edition buttons.
 
 - - -
 
 ## Documentation
 
-Only indluded the aditional options of this fork.
+Only included the aditional options of this fork.
 For more information head to the [original docs](https://valor-software.com/ng2-table/)
 
 ### Inputs (Properties)

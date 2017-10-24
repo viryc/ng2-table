@@ -93,7 +93,7 @@ export class NgTableComponent {
     editConf.show = editConf.select || editConf.edit || editConf.delete;
     if (editConf.edit) {
       if (!editConf.edit.className) {
-        editConf.edit.className = 'btn'
+        editConf.edit.className = 'btn';
       }
       if (editConf.edit.className instanceof Array) {
         editConf.edit.className = editConf.edit.className.join(' ');
@@ -101,7 +101,7 @@ export class NgTableComponent {
     }
     if (editConf.delete) {
       if (!editConf.delete.className) {
-        editConf.delete.className = 'btn'
+        editConf.delete.className = 'btn';
       }
       if (editConf.delete.className instanceof Array) {
         editConf.delete.className = editConf.delete.className.join(' ');
@@ -134,7 +134,7 @@ export class NgTableComponent {
     return this._config;
   }
 
-  public get editConfig() {
+  public get editConfig(): any {
     return this._editConfig;
   }
 
