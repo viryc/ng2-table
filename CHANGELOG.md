@@ -1,3 +1,8 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/lluchmk/ng2-table/compare/v1.3.2...v1.0.1) (2017-10-24)
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/lluchmk/ng2-table/compare/v1.3.2...v1.0.0) (2017-10-24)
 
