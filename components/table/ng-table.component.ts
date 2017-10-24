@@ -32,7 +32,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
       </tr>
         <tr *ngFor="let row of rows">
           <td *ngIf="editConfig.show" ngClass="{{editConfig.className || ''}}">
-            <input *ngIf="editConfig.select" type="checkbox" [name]="editConfig.select.name" [id]="row[editConfig.select.keyProperty]" (change)="onSelectChange($event.target.checked, row[editConfig.select.keyProperty])" />
+            <input *ngIf="editConfig.select" type="checkbox" [name]="editConfig.select.name" [id]="row[editConfig.select.keyProperty]" ngClass="{{editConfig.select.className || ''}}" (change)="onSelectChange($event.target.checked, row[editConfig.select.keyProperty])" />
             <button *ngIf="editConfig.edit" type="button" ngClass="{{editConfig.edit.className || ''}}" (click)="onEdit(row)"><span *ngIf="editConfig.edit.icon" [class]="editConfig.edit.icon"></span>{{ editConfig.edit.title }}</button>
             <button *ngIf="editConfig.delete" type="button" ngClass="{{editConfig.delete.className || ''}}" (click)="onDelete(row)"><span *ngIf="editConfig.delete.icon" [class]="editConfig.delete.icon"></span>{{ editConfig.delete.title }}</button>
           </td>
