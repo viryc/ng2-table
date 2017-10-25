@@ -153,13 +153,24 @@ export class NgTableComponent {
     return {columns: sortColumns};
   }
 
+  public get filteringColumns():any {
+    let filterColumns: Array<any> = [];
+
+    this.columns.forEach((column:any) => {
+      if (column.filtering && column.filtering.filterString) {
+        filterColumns.push(column);
+      }
+    });
+    return {columns: filterColumns};
+  }
+
   public onChangeTable(column:any):void {
     this._columns.forEach((col:any) => {
       if (col.name !== column.name && col.sort !== false) {
         col.sort = '';
       }
     });
-    this.tableChanged.emit({sorting: this.configColumns});
+    this.tableChanged.emit({sorting: this.configColumns, filtering: this.filteringColumns});
   }
 
   public onSortChanged(column: any):void {

@@ -9,7 +9,7 @@
 <br>
 <ng-table [config]="config"
           [editConfig]="editConfig"
-          (tableChanged)="onChangeTable(config)"
+          (tableChanged)="onChangeTable($event)"
           (cellClicked)="onCellClick($event)"
           (editClicked)="onEditClick($event)"
           (deleteClicked)="onDeleteClick($event)"
