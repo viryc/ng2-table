@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/lluchmk/ng2-table/compare/v1.0.1...v1.0.2) (2017-10-25)
+
+### Features
+Adds events for column sort and filter
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/lluchmk/ng2-table/compare/v1.3.2...v1.0.1) (2017-10-24)
 
