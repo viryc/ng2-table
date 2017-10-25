@@ -27,8 +27,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
                  [ngTableFiltering]="column.filtering"
                  class="form-control"
                  style="width: auto;"
-                 (keyup)="onColumnFilterChanged(column)"
-                 (tableChanged)="onChangeTable(config)"/>
+                 (keyup)="onColumnFilterChanged(column)"/>
         </td>
       </tr>
         <tr *ngFor="let row of rows">
