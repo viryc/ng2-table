@@ -12,7 +12,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
             {{ editConfig.title }}
           </th>
           <th *ngFor="let column of columns" [ngTableSorting]="config" [column]="column" 
-              (sortChanged)="onChangeTable($event)" ngClass="{{column.className || ''}}">
+              (sortChanged)="onSortChanged($event)" ngClass="{{column.className || ''}}">
             {{column.title}}
             <i *ngIf="config && column.sort" class="pull-right fa"
               [ngClass]="{'fa-chevron-down': column.sort === 'desc', 'fa-chevron-up': column.sort === 'asc'}"></i>
@@ -27,6 +27,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
                  [ngTableFiltering]="column.filtering"
                  class="form-control"
                  style="width: auto;"
+                 (keyup)="onColumnFilterChanged(column)"
                  (tableChanged)="onChangeTable(config)"/>
         </td>
       </tr>
@@ -63,6 +64,8 @@ export class NgTableComponent {
   @Output() public editClicked: EventEmitter<any> = new EventEmitter();
   @Output() public deleteClicked: EventEmitter<any> = new EventEmitter();
   @Output() public selectChange: EventEmitter<any> = new EventEmitter();
+  @Output() public sortChanged: EventEmitter<any> = new EventEmitter();
+  @Output() public filterChanged: EventEmitter<any> = new EventEmitter();
 
   public showFilterRow:Boolean = false;
 
@@ -157,6 +160,16 @@ export class NgTableComponent {
       }
     });
     this.tableChanged.emit({sorting: this.configColumns});
+  }
+
+  public onSortChanged(column: any):void {
+    this.sortChanged.emit(column);
+    this.onChangeTable(column);
+  }
+
+  public onColumnFilterChanged(column: any):void {
+    this.filterChanged.emit(column);
+    this.onChangeTable(column);
   }
 
   public getData(row:any, propertyName:string):string {

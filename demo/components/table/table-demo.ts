@@ -135,6 +135,7 @@ export class TableDemoComponent implements OnInit {
   }
 
   public onChangeTable(config:any, page:any = {page: this.page, itemsPerPage: this.itemsPerPage}):any {
+    console.log(config);
     if (config.filtering) {
       Object.assign(this.config.filtering, config.filtering);
     }
@@ -163,5 +164,13 @@ export class TableDemoComponent implements OnInit {
 
   public onSelectChange(data: any): any {
     console.log(data);
+  }
+
+  public onSortChanged(column: any): any {
+    console.log(column);
+  }
+
+  public onFilterChanged(column: any): any {
+    console.log(column);
   }
 }

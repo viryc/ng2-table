@@ -32,7 +32,9 @@ For more information head to the [original docs](https://valor-software.com/ng2-
 - `cellClicked`: onclick event handler
 - `editClicked`: edit button event handler. It does not handles the edition, just outputs the row on it which was triggered.
 - `deleteClicked`: delete button event handler. It does not handles the deletion, just outputs the row on it which was triggered
-- `selectChange`: row selection change handlres. Outputs the row and a a boolean telling if its selected or not.
+- `selectChange`: row selection change handler. Outputs the row and a a boolean telling if its selected or not.
+- `sortChanged`: column sorting change handler. Outputs the changed column
+- `filterChanged`: column filter change handler. Outputs the changed column
 
 ## Troubleshooting
 
