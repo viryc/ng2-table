@@ -30,7 +30,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
                  (keyup)="onColumnFilterChanged(column)"/>
         </td>
       </tr>
-        <tr *ngFor="let row of rows">
+        <tr *ngFor="let row of rows; trackBy: trackByRow">
           <td *ngIf="editConfig.show" ngClass="{{editConfig.className || ''}}">
             <input *ngIf="editConfig.select" type="checkbox" [name]="editConfig.select.name" [id]="row[editConfig.select.keyProperty]" ngClass="{{editConfig.select.className || ''}}" (change)="onSelectChange($event.target.checked, row[editConfig.select.keyProperty])" />
             <button *ngIf="editConfig.edit" type="button" ngClass="{{editConfig.edit.className || ''}}" (click)="onEdit(row)"><span *ngIf="editConfig.edit.icon" [class]="editConfig.edit.icon"></span>{{ editConfig.edit.title }}</button>
@@ -200,5 +200,10 @@ export class NgTableComponent {
 
   public onDelete(row: any): void {
     this.deleteClicked.emit(row);
+  }
+
+  public trackByRow(index: number, row: any) {
+    if (this.config.idRow) return row[this.config.idRow];
+    return row;
   }
 }
