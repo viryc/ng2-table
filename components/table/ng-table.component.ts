@@ -202,8 +202,10 @@ export class NgTableComponent {
     this.deleteClicked.emit(row);
   }
 
-  public trackByRow(index: number, row: any) {
-    if (this.config.idRow) return row[this.config.idRow];
-    return row;
+  public trackByRow(index: number, row: any): any {
+    if (this.config.idRow) {
+      return row[this.config.idRow];
+    }
+    return index;
   }
 }
