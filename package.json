@@ -1,6 +1,6 @@
 {
   "name": "lluchmk-ng2-table",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Fork of ng2-table including some edition options",
   "scripts": {
     "flow.compile": "npm run flow.compile:common && npm run flow.compile:system ",
