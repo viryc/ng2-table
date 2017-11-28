@@ -203,7 +203,7 @@ export class NgTableComponent {
   }
 
   public trackByRow(index: number, row: any): any {
-    if (this.config.idRow) {
+    if (this.config && this.config.idRow) {
       return row[this.config.idRow];
     }
     return index;
