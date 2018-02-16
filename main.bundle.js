@@ -1,6 +1,6 @@
 webpackJsonp([1],[
 /* 0 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var platform_browser_dynamic_1 = __webpack_require__(122);
@@ -12,9 +12,9 @@ webpackJsonp([1],[
 	platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(demo_module_1.Ng2TableDemoModule);
 	
 
-/***/ },
+/***/ }),
 /* 1 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {//! moment.js
 	//! version : 2.15.1
@@ -4252,7 +4252,7 @@ webpackJsonp([1],[
 	}));
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(514)(module)))
 
-/***/ },
+/***/ }),
 /* 2 */,
 /* 3 */,
 /* 4 */,
@@ -4286,7 +4286,7 @@ webpackJsonp([1],[
 /* 32 */,
 /* 33 */,
 /* 34 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -4390,7 +4390,7 @@ webpackJsonp([1],[
 	exports.ComponentsHelper = ComponentsHelper;
 
 
-/***/ },
+/***/ }),
 /* 35 */,
 /* 36 */,
 /* 37 */,
@@ -4407,7 +4407,7 @@ webpackJsonp([1],[
 /* 48 */,
 /* 49 */,
 /* 50 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var browser_1 = __webpack_require__(121);
@@ -4438,7 +4438,7 @@ webpackJsonp([1],[
 	exports.Ng2BootstrapConfig = Ng2BootstrapConfig;
 
 
-/***/ },
+/***/ }),
 /* 51 */,
 /* 52 */,
 /* 53 */,
@@ -4446,7 +4446,7 @@ webpackJsonp([1],[
 /* 55 */,
 /* 56 */,
 /* 57 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -4721,7 +4721,7 @@ webpackJsonp([1],[
 	exports.DatePickerInnerComponent = DatePickerInnerComponent;
 
 
-/***/ },
+/***/ }),
 /* 58 */,
 /* 59 */,
 /* 60 */,
@@ -4733,7 +4733,7 @@ webpackJsonp([1],[
 /* 66 */,
 /* 67 */,
 /* 68 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -4754,9 +4754,9 @@ webpackJsonp([1],[
 	exports.CollapseModule = CollapseModule;
 
 
-/***/ },
+/***/ }),
 /* 69 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -4904,7 +4904,7 @@ webpackJsonp([1],[
 	exports.DropdownDirective = DropdownDirective;
 
 
-/***/ },
+/***/ }),
 /* 70 */,
 /* 71 */,
 /* 72 */,
@@ -4931,7 +4931,7 @@ webpackJsonp([1],[
 /* 93 */,
 /* 94 */,
 /* 95 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -4979,9 +4979,9 @@ webpackJsonp([1],[
 	exports.AccordionComponent = AccordionComponent;
 
 
-/***/ },
+/***/ }),
 /* 96 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5006,9 +5006,9 @@ webpackJsonp([1],[
 	exports.AccordionModule = AccordionModule;
 
 
-/***/ },
+/***/ }),
 /* 97 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5031,9 +5031,9 @@ webpackJsonp([1],[
 	exports.AlertModule = AlertModule;
 
 
-/***/ },
+/***/ }),
 /* 98 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -5057,9 +5057,9 @@ webpackJsonp([1],[
 	exports.ButtonsModule = ButtonsModule;
 
 
-/***/ },
+/***/ }),
 /* 99 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	// todo: add animate
 	"use strict";
@@ -5240,9 +5240,9 @@ webpackJsonp([1],[
 	exports.CarouselComponent = CarouselComponent;
 
 
-/***/ },
+/***/ }),
 /* 100 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5266,9 +5266,9 @@ webpackJsonp([1],[
 	exports.CarouselModule = CarouselModule;
 
 
-/***/ },
+/***/ }),
 /* 101 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5300,9 +5300,9 @@ webpackJsonp([1],[
 	exports.DatepickerModule = DatepickerModule;
 
 
-/***/ },
+/***/ }),
 /* 102 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -5325,9 +5325,9 @@ webpackJsonp([1],[
 	exports.DropdownModule = DropdownModule;
 
 
-/***/ },
+/***/ }),
 /* 103 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -5387,9 +5387,9 @@ webpackJsonp([1],[
 	exports.ModalBackdropComponent = ModalBackdropComponent;
 
 
-/***/ },
+/***/ }),
 /* 104 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	exports.modalConfigDefaults = {
@@ -5414,9 +5414,9 @@ webpackJsonp([1],[
 	};
 
 
-/***/ },
+/***/ }),
 /* 105 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -5441,9 +5441,9 @@ webpackJsonp([1],[
 	exports.ModalModule = ModalModule;
 
 
-/***/ },
+/***/ }),
 /* 106 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
 	var core_1 = __webpack_require__(3);
@@ -5681,9 +5681,9 @@ webpackJsonp([1],[
 
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
-/***/ },
+/***/ }),
 /* 107 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5708,9 +5708,9 @@ webpackJsonp([1],[
 	exports.PaginationModule = PaginationModule;
 
 
-/***/ },
+/***/ }),
 /* 108 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	var PositionService = (function () {
@@ -5865,9 +5865,9 @@ webpackJsonp([1],[
 	exports.positionService = new PositionService();
 
 
-/***/ },
+/***/ }),
 /* 109 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -5925,9 +5925,9 @@ webpackJsonp([1],[
 	exports.ProgressDirective = ProgressDirective;
 
 
-/***/ },
+/***/ }),
 /* 110 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5952,9 +5952,9 @@ webpackJsonp([1],[
 	exports.ProgressbarModule = ProgressbarModule;
 
 
-/***/ },
+/***/ }),
 /* 111 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -5978,9 +5978,9 @@ webpackJsonp([1],[
 	exports.RatingModule = RatingModule;
 
 
-/***/ },
+/***/ }),
 /* 112 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6050,9 +6050,9 @@ webpackJsonp([1],[
 	exports.TabDirective = TabDirective;
 
 
-/***/ },
+/***/ }),
 /* 113 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -6078,9 +6078,9 @@ webpackJsonp([1],[
 	exports.TabsModule = TabsModule;
 
 
-/***/ },
+/***/ }),
 /* 114 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6209,9 +6209,9 @@ webpackJsonp([1],[
 	exports.TabsetComponent = TabsetComponent;
 
 
-/***/ },
+/***/ }),
 /* 115 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -6235,9 +6235,9 @@ webpackJsonp([1],[
 	exports.TimepickerModule = TimepickerModule;
 
 
-/***/ },
+/***/ }),
 /* 116 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6294,9 +6294,9 @@ webpackJsonp([1],[
 	exports.TooltipContainerComponent = TooltipContainerComponent;
 
 
-/***/ },
+/***/ }),
 /* 117 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -6323,9 +6323,9 @@ webpackJsonp([1],[
 	exports.TooltipModule = TooltipModule;
 
 
-/***/ },
+/***/ }),
 /* 118 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6466,9 +6466,9 @@ webpackJsonp([1],[
 	exports.TypeaheadContainerComponent = TypeaheadContainerComponent;
 
 
-/***/ },
+/***/ }),
 /* 119 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	var TypeaheadOptions = (function () {
@@ -6480,9 +6480,9 @@ webpackJsonp([1],[
 	exports.TypeaheadOptions = TypeaheadOptions;
 
 
-/***/ },
+/***/ }),
 /* 120 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var common_1 = __webpack_require__(14);
@@ -6510,9 +6510,9 @@ webpackJsonp([1],[
 	exports.TypeaheadModule = TypeaheadModule;
 
 
-/***/ },
+/***/ }),
 /* 121 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	/*tslint:disable */
 	/**
@@ -6541,13 +6541,13 @@ webpackJsonp([1],[
 	exports.EventListener = win['EventListener'];
 
 
-/***/ },
+/***/ }),
 /* 122 */,
 /* 123 */,
 /* 124 */,
 /* 125 */,
 /* 126 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -6625,10 +6625,10 @@ webpackJsonp([1],[
 	exports.EmptyObservable = EmptyObservable;
 	//# sourceMappingURL=EmptyObservable.js.map
 
-/***/ },
+/***/ }),
 /* 127 */,
 /* 128 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -6689,7 +6689,7 @@ webpackJsonp([1],[
 	exports.ScalarObservable = ScalarObservable;
 	//# sourceMappingURL=ScalarObservable.js.map
 
-/***/ },
+/***/ }),
 /* 129 */,
 /* 130 */,
 /* 131 */,
@@ -6725,7 +6725,7 @@ webpackJsonp([1],[
 /* 161 */,
 /* 162 */,
 /* 163 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6786,9 +6786,9 @@ webpackJsonp([1],[
 
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
-/***/ },
+/***/ }),
 /* 164 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6837,9 +6837,9 @@ webpackJsonp([1],[
 	exports.AlertComponent = AlertComponent;
 
 
-/***/ },
+/***/ }),
 /* 165 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6914,9 +6914,9 @@ webpackJsonp([1],[
 	exports.ButtonCheckboxDirective = ButtonCheckboxDirective;
 
 
-/***/ },
+/***/ }),
 /* 166 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -6990,9 +6990,9 @@ webpackJsonp([1],[
 	exports.ButtonRadioDirective = ButtonRadioDirective;
 
 
-/***/ },
+/***/ }),
 /* 167 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7029,9 +7029,9 @@ webpackJsonp([1],[
 	exports.SlideComponent = SlideComponent;
 
 
-/***/ },
+/***/ }),
 /* 168 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	// FIX: in order to update to rc.1 had to disable animation, sorry
@@ -7190,9 +7190,9 @@ webpackJsonp([1],[
 	exports.CollapseDirective = CollapseDirective;
 
 
-/***/ },
+/***/ }),
 /* 169 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7231,9 +7231,9 @@ webpackJsonp([1],[
 	exports.NgTranscludeDirective = NgTranscludeDirective;
 
 
-/***/ },
+/***/ }),
 /* 170 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7325,9 +7325,9 @@ webpackJsonp([1],[
 	exports.DatePickerComponent = DatePickerComponent;
 
 
-/***/ },
+/***/ }),
 /* 171 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7362,9 +7362,9 @@ webpackJsonp([1],[
 	exports.DropdownMenuDirective = DropdownMenuDirective;
 
 
-/***/ },
+/***/ }),
 /* 172 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7420,9 +7420,9 @@ webpackJsonp([1],[
 
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
-/***/ },
+/***/ }),
 /* 173 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	// todo: should we support enforce focus in?
 	// todo: in original bs there are was a way to prevent modal from showing
@@ -7728,9 +7728,9 @@ webpackJsonp([1],[
 	exports.ModalDirective = ModalDirective;
 
 
-/***/ },
+/***/ }),
 /* 174 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -7774,9 +7774,9 @@ webpackJsonp([1],[
 	exports.PagerComponent = PagerComponent;
 
 
-/***/ },
+/***/ }),
 /* 175 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7836,9 +7836,9 @@ webpackJsonp([1],[
 	exports.BarComponent = BarComponent;
 
 
-/***/ },
+/***/ }),
 /* 176 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7864,9 +7864,9 @@ webpackJsonp([1],[
 	exports.ProgressbarComponent = ProgressbarComponent;
 
 
-/***/ },
+/***/ }),
 /* 177 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
 	var core_1 = __webpack_require__(3);
@@ -7981,9 +7981,9 @@ webpackJsonp([1],[
 
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
-/***/ },
+/***/ }),
 /* 178 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -8005,9 +8005,9 @@ webpackJsonp([1],[
 	exports.TabHeadingDirective = TabHeadingDirective;
 
 
-/***/ },
+/***/ }),
 /* 179 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -8333,9 +8333,9 @@ webpackJsonp([1],[
 	exports.TimepickerComponent = TimepickerComponent;
 
 
-/***/ },
+/***/ }),
 /* 180 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -8355,9 +8355,9 @@ webpackJsonp([1],[
 	exports.TooltipOptions = TooltipOptions;
 
 
-/***/ },
+/***/ }),
 /* 181 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -8442,9 +8442,9 @@ webpackJsonp([1],[
 	exports.TooltipDirective = TooltipDirective;
 
 
-/***/ },
+/***/ }),
 /* 182 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var latin_map_1 = __webpack_require__(509);
@@ -8509,9 +8509,9 @@ webpackJsonp([1],[
 	exports.TypeaheadUtils = TypeaheadUtils;
 
 
-/***/ },
+/***/ }),
 /* 183 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
 	var core_1 = __webpack_require__(3);
@@ -8797,9 +8797,9 @@ webpackJsonp([1],[
 
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
-/***/ },
+/***/ }),
 /* 184 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	function __export(m) {
@@ -8859,9 +8859,9 @@ webpackJsonp([1],[
 	exports.Ng2BootstrapModule = index_1.Ng2BootstrapModule;
 
 
-/***/ },
+/***/ }),
 /* 185 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Afrikaans [af]
@@ -8936,9 +8936,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 186 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Arabic (Lybia) [ar-ly]
@@ -9062,9 +9062,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 187 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Arabic (Morocco) [ar-ma]
@@ -9126,9 +9126,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 188 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Arabic (Saudi Arabia) [ar-sa]
@@ -9234,9 +9234,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 189 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale  :  Arabic (Tunisia) [ar-tn]
@@ -9297,9 +9297,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 190 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Arabic [ar]
@@ -9438,9 +9438,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 191 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Azerbaijani [az]
@@ -9547,9 +9547,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 192 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Belarusian [be]
@@ -9685,9 +9685,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 193 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Bulgarian [bg]
@@ -9779,9 +9779,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 194 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Bengali [bn]
@@ -9902,9 +9902,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 195 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Tibetan [bo]
@@ -10025,9 +10025,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 196 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Breton [br]
@@ -10137,9 +10137,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 197 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Bosnian [bs]
@@ -10284,9 +10284,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 198 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Catalan [ca]
@@ -10369,9 +10369,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 199 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Czech [cs]
@@ -10545,9 +10545,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 200 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Chuvash [cv]
@@ -10612,9 +10612,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 201 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Welsh [cy]
@@ -10697,9 +10697,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 202 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Danish [da]
@@ -10761,9 +10761,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 203 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : German (Austria) [de-at]
@@ -10844,9 +10844,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 204 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : German [de]
@@ -10926,9 +10926,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 205 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Maldivian [dv]
@@ -11029,9 +11029,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 206 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Greek [el]
@@ -11131,9 +11131,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 207 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : English (Australia) [en-au]
@@ -11202,9 +11202,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 208 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : English (Canada) [en-ca]
@@ -11269,9 +11269,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 209 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : English (United Kingdom) [en-gb]
@@ -11340,9 +11340,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 210 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : English (Ireland) [en-ie]
@@ -11411,9 +11411,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 211 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : English (New Zealand) [en-nz]
@@ -11482,9 +11482,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 212 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Esperanto [eo]
@@ -11559,9 +11559,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 213 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Spanish (Dominican Republic) [es-do]
@@ -11643,9 +11643,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 214 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Spanish [es]
@@ -11728,9 +11728,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 215 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Estonian [et]
@@ -11812,9 +11812,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 216 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Basque [eu]
@@ -11882,9 +11882,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 217 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Persian [fa]
@@ -11992,9 +11992,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 218 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Finnish [fi]
@@ -12103,9 +12103,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 219 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Faroese [fo]
@@ -12167,9 +12167,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 220 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : French (Canada) [fr-ca]
@@ -12231,9 +12231,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 221 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : French (Switzerland) [fr-ch]
@@ -12299,9 +12299,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 222 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : French [fr]
@@ -12367,9 +12367,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 223 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Frisian [fy]
@@ -12444,9 +12444,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 224 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Scottish Gaelic [gd]
@@ -12524,9 +12524,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 225 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Galician [gl]
@@ -12605,9 +12605,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 226 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Hebrew [he]
@@ -12708,9 +12708,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 227 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Hindi [hi]
@@ -12836,9 +12836,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 228 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Croatian [hr]
@@ -12985,9 +12985,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 229 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Hungarian [hu]
@@ -13098,9 +13098,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 230 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Armenian [hy-am]
@@ -13197,9 +13197,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 231 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Indonesian [id]
@@ -13284,9 +13284,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 232 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Icelandic [is]
@@ -13415,9 +13415,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 233 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Italian [it]
@@ -13489,9 +13489,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 234 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Japanese [ja]
@@ -13569,9 +13569,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 235 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Japanese [jv]
@@ -13656,9 +13656,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 236 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Georgian [ka]
@@ -13749,9 +13749,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 237 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Kazakh [kk]
@@ -13840,9 +13840,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 238 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Cambodian [km]
@@ -13902,9 +13902,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 239 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Korean [ko]
@@ -13971,9 +13971,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 240 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Kyrgyz [ky]
@@ -14063,9 +14063,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 241 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Luxembourgish [lb]
@@ -14204,9 +14204,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 242 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Lao [lo]
@@ -14278,9 +14278,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 243 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Lithuanian [lt]
@@ -14399,9 +14399,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 244 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Latvian [lv]
@@ -14500,9 +14500,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 245 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Montenegrin [me]
@@ -14615,9 +14615,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 246 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Maori [mi]
@@ -14683,9 +14683,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 247 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Macedonian [mk]
@@ -14777,9 +14777,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 248 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Malayalam [ml]
@@ -14862,9 +14862,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 249 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Marathi [mr]
@@ -15025,9 +15025,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 250 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Malay [ms-my]
@@ -15112,9 +15112,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 251 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Malay [ms]
@@ -15198,9 +15198,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 252 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Burmese [my]
@@ -15297,9 +15297,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 253 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Norwegian Bokmål [nb]
@@ -15364,9 +15364,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 254 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Nepalese [ne]
@@ -15491,9 +15491,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 255 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Dutch [nl]
@@ -15581,9 +15581,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 256 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Nynorsk [nn]
@@ -15645,9 +15645,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 257 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Punjabi (India) [pa-in]
@@ -15773,9 +15773,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 258 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Polish [pl]
@@ -15882,9 +15882,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 259 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Portuguese (Brazil) [pt-br]
@@ -15947,9 +15947,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 260 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Portuguese [pt]
@@ -16016,9 +16016,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 261 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Romanian [ro]
@@ -16095,9 +16095,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 262 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Russian [ru]
@@ -16282,9 +16282,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 263 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Northern Sami [se]
@@ -16347,9 +16347,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 264 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Sinhalese [si]
@@ -16422,9 +16422,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 265 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Slovak [sk]
@@ -16576,9 +16576,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 266 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Slovenian [sl]
@@ -16742,9 +16742,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 267 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Albanian [sq]
@@ -16816,9 +16816,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 268 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Serbian Cyrillic [sr-cyrl]
@@ -16930,9 +16930,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 269 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Serbian [sr]
@@ -17044,9 +17044,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 270 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : siSwati [ss]
@@ -17137,9 +17137,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 271 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Swedish [sv]
@@ -17210,9 +17210,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 272 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Swahili [sw]
@@ -17273,9 +17273,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 273 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Tamil [ta]
@@ -17406,9 +17406,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 274 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Telugu [te]
@@ -17499,9 +17499,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 275 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Thai [th]
@@ -17570,9 +17570,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 276 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Tagalog (Philippines) [tl-ph]
@@ -17636,9 +17636,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 277 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Klingon [tlh]
@@ -17760,9 +17760,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 278 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Turkish [tr]
@@ -17854,9 +17854,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 279 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Talossan [tzl]
@@ -17949,9 +17949,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 280 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Central Atlas Tamazight Latin [tzm-latn]
@@ -18011,9 +18011,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 281 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Central Atlas Tamazight [tzm]
@@ -18073,9 +18073,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 282 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Ukrainian [uk]
@@ -18223,9 +18223,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 283 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Uzbek [uz]
@@ -18285,9 +18285,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 284 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Vietnamese [vi]
@@ -18368,9 +18368,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 285 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Pseudo [x-pseudo]
@@ -18440,9 +18440,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 286 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Chinese (China) [zh-cn]
@@ -18571,9 +18571,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 287 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Chinese (Hong Kong) [zh-hk]
@@ -18680,9 +18680,9 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 288 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
 	//! locale : Chinese (Taiwan) [zh-tw]
@@ -18788,28 +18788,28 @@ webpackJsonp([1],[
 
 	}));
 
-/***/ },
+/***/ }),
 /* 289 */,
 /* 290 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	module.exports = "<h3 id=\"usage\">Usage</h3>\n<pre class=\"language-typescript\"><code class=\"language-typescript\"><span class=\"token keyword\" >import</span> <span class=\"token punctuation\" >{</span> Ng2TableModule <span class=\"token punctuation\" >}</span> from <span class=\"token string\" >'ng2-table/ng2-table'</span><span class=\"token punctuation\" >;</span>\n</code></pre>\n<p>or if you want to import specified plugins (Table component is required, the others are optional):</p>\n<pre class=\"language-typescript\"><code class=\"language-typescript\"><span class=\"token keyword\" >import</span> <span class=\"token punctuation\" >{</span> NgTableComponent<span class=\"token punctuation\" >,</span> NgTableFilteringDirective<span class=\"token punctuation\" >,</span> NgTablePagingDirective<span class=\"token punctuation\" >,</span> NgTableSortingDirective <span class=\"token punctuation\" >}</span> from <span class=\"token string\" >'ng2-table/ng2-table'</span><span class=\"token punctuation\" >;</span>\n</code></pre>\n<p>in this case, don&#39;t forget to include all of the imported entities to your module</p>\n<h3 id=\"utilisation\">Utilisation</h3>\n<p>There are only simple table with 3 plugins/directives: <code>filtering</code>, <code>paging</code>, <code>sorting</code>. You don&#39;t need special <code>config</code> variable for storing settings for all plugins as is used in demo example. It&#39;s just showing usage sample.</p>\n<h3 id=\"inputs-properties-\">Inputs (Properties)</h3>\n<ul>\n<li><code>page</code> (<code>number</code>) - the default page after the table component loading</li>\n<li><code>itemsPerPage</code> (<code>number</code>) - number of the displaying items (rows) on a page</li>\n<li><code>maxSize</code> (<code>number</code>) - number of the displaying pages before <code>...</code></li>\n<li><code>numPages</code> (<code>number</code>) - total number of the pages</li>\n<li><p><code>length</code> (<code>number</code>) - total number of the items after filtering (of it&#39;s chosen)</p>\n</li>\n<li><p><code>config</code> (<code>?any</code>) - config for setup all plugins (filtering, sorting, paging):</p>\n<ul>\n<li><code>paging</code> (<code>?boolean</code>) - - switch on the paging plugin</li>\n<li><code>sorting</code> (<code>?any</code>) - switch on the sorting plugin<ul>\n<li><code>columns</code> (<code>Array&lt;any&gt;</code>) - only list of the columns for sorting</li>\n</ul>\n</li>\n<li><code>filtering</code> (<code>?any</code>) - switch on the filtering plugin<ul>\n<li><code>filterString</code> (<code>string</code>) - the default value for filter</li>\n<li><code>columnName</code> (<code>string</code>) - the property name in raw data</li>\n</ul>\n</li>\n<li><code>className</code> (<code>string|Array&lt;string&gt;</code>) - additional CSS classes that should be added to a <table></li>\n</ul>\n</li>\n<li><p><code>rows</code> (<code>?Array&lt;any&gt;</code>) - only list of the rows which should be displayed</p>\n</li>\n<li><code>columns</code> (<code>?Array&lt;any&gt;</code>) - config for columns (+ sorting settings if it&#39;s needed)<ul>\n<li><code>title</code> (<code>string</code>) - the title of column header</li>\n<li><code>name</code> (<code>string</code>) - the property name in data</li>\n<li><code>sort</code> (<code>?string|boolean</code>) - config for columns (+ sorting settings if it&#39;s needed), sorting is switched on by default for each column</li>\n<li><code>className</code> (<code>string|Array&lt;string&gt;</code>) - additional CSS classes that should be added to a column header</li>\n<li><code>filtering</code> (<code>?any</code>) - switch on the filtering plugin<ul>\n<li><code>filterString</code> (<code>string</code>) - the default value for filter</li>\n<li><code>columnName</code> (<code>string</code>) - the property name in raw data</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"outputs-events-\">Outputs (Events)</h3>\n<ul>\n<li><code>tableChanged</code>: data change event handler</li>\n<li><code>cellClicked</code>: onclick event handler</li>\n</ul>\n<h3 id=\"filter\">Filter</h3>\n<p>The responsibility of the filtering issue falls on user. You should choose on which columns the filter would be applied. You could add any number of different filters.\nFilter string - it&#39;s a string for matching values in raw data. Column name refers to the property name in raw data. The rest logic you could organize by yourself (the order of filters, data formats, etc). Even you could use filter for list of data columns.</p>\n<p>You can also set up <code>filtering</code> param for columns, in this case filter box will appear in first row of the table.</p>\n<h3 id=\"sorting\">Sorting</h3>\n<p>Data sorting could be in 3 modes: asc, desc and without sorting data (as it comes from backend or somewhere else). If you want to switch off the sorting for some of the columns then you should set it forcibly in columns config (set property sort to false value for each column you want)</p>\n<h3 id=\"paging\">Paging</h3>\n<p>Pagination could be used from <a href=\"https://github.com/valor-software/ng2-bootstrap\">ng2-bootstrap</a> - <a href=\"http://valor-software.github.io/ng2-bootstrap/#pagination\">pagination component</a>. When the page is changed, the pagination component will emit event <code>tableChanged</code> with an object {page, itemsPerPage}. Then you can easily subscribe on it and request corresponding raw data.</p>\n";
 
-/***/ },
+/***/ }),
 /* 291 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	module.exports = "";
 
-/***/ },
+/***/ }),
 /* 292 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	module.exports = "<h1 id=\"getting-started\">Getting started</h1>\n<h3 id=\"first-of-all-welcome-\">First of all, Welcome!</h3>\n";
 
-/***/ },
+/***/ }),
 /* 293 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	var map = {
 		"./af": 185,
@@ -19035,34 +19035,34 @@ webpackJsonp([1],[
 	webpackContext.id = 293;
 
 
-/***/ },
+/***/ }),
 /* 294 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
-	module.exports = "<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>div</span> <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>row<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\n  <span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>div</span> <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>col-md-4<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\n    <span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>input</span> <span class=\"token attr-name\" >*ngIf</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.filtering<span class=\"token punctuation\" >\"</span></span> <span class=\"token attr-name\" >placeholder</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>Filter all columns<span class=\"token punctuation\" >\"</span></span>\n           <span class=\"token attr-name\" >[ngTableFiltering]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.filtering<span class=\"token punctuation\" >\"</span></span>\n           <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>form-control<span class=\"token punctuation\" >\"</span></span>\n           <span class=\"token attr-name\" >(tableChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onChangeTable(config)<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >/></span></span>\n  <span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>div</span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>div</span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>br</span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>ng-table</span> <span class=\"token attr-name\" >[config]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >[editConfig]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>editConfig<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(tableChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onChangeTable($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(cellClicked)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onCellClick($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(editClicked)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onEditClick($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(deleteClicked)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onDeleteClick($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(selectChange)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onSelectChange($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(sortChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onSortChanged($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >(filterChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onFilterChanged($event)<span class=\"token punctuation\" >\"</span></span>\n          <span class=\"token attr-name\" >[rows]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>rows<span class=\"token punctuation\" >\"</span></span> <span class=\"token attr-name\" >[columns]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>columns<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>ng-table</span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>pagination</span> <span class=\"token attr-name\" >*ngIf</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.paging<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>pagination-sm<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >[(ngModel)]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>page<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >[totalItems]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>length<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >[itemsPerPage]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>itemsPerPage<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >[maxSize]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>maxSize<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >[boundaryLinks]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>true<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >[rotate]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>false<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >(pageChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onChangeTable(config, $event)<span class=\"token punctuation\" >\"</span></span>\n            <span class=\"token attr-name\" >(numPages)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>numPages <span class=\"token punctuation\" >=</span> $event<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>pagination</span><span class=\"token punctuation\" >></span></span>\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>pre</span> <span class=\"token attr-name\" >*ngIf</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.paging<span class=\"token punctuation\" >\"</span></span> <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>card card-block card-header<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>Page: {{page}} / {{numPages}}<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>pre</span><span class=\"token punctuation\" >></span></span>\n"
+	module.exports = "<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>div</span> <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>row<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\r\n  <span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>div</span> <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>col-md-4<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\r\n    <span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>input</span> <span class=\"token attr-name\" >*ngIf</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.filtering<span class=\"token punctuation\" >\"</span></span> <span class=\"token attr-name\" >placeholder</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>Filter all columns<span class=\"token punctuation\" >\"</span></span>\r\n           <span class=\"token attr-name\" >[ngTableFiltering]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.filtering<span class=\"token punctuation\" >\"</span></span>\r\n           <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>form-control<span class=\"token punctuation\" >\"</span></span>\r\n           <span class=\"token attr-name\" >(tableChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onChangeTable(config)<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >/></span></span>\r\n  <span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>div</span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>div</span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>br</span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>ng-table</span> <span class=\"token attr-name\" >[config]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >[editConfig]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>editConfig<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(tableChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onChangeTable($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(cellClicked)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onCellClick($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(editClicked)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onEditClick($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(deleteClicked)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onDeleteClick($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(selectChange)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onSelectChange($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(sortChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onSortChanged($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >(filterChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onFilterChanged($event)<span class=\"token punctuation\" >\"</span></span>\r\n          <span class=\"token attr-name\" >[rows]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>rows<span class=\"token punctuation\" >\"</span></span> <span class=\"token attr-name\" >[columns]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>columns<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>ng-table</span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>pagination</span> <span class=\"token attr-name\" >*ngIf</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.paging<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>pagination-sm<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >[(ngModel)]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>page<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >[totalItems]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>length<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >[itemsPerPage]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>itemsPerPage<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >[maxSize]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>maxSize<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >[boundaryLinks]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>true<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >[rotate]</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>false<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >(pageChanged)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>onChangeTable(config, $event)<span class=\"token punctuation\" >\"</span></span>\r\n            <span class=\"token attr-name\" >(numPages)</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>numPages <span class=\"token punctuation\" >=</span> $event<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>pagination</span><span class=\"token punctuation\" >></span></span>\r\n<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;</span>pre</span> <span class=\"token attr-name\" >*ngIf</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>config.paging<span class=\"token punctuation\" >\"</span></span> <span class=\"token attr-name\" >class</span><span class=\"token attr-value\" ><span class=\"token punctuation\" >=</span><span class=\"token punctuation\" >\"</span>card card-block card-header<span class=\"token punctuation\" >\"</span></span><span class=\"token punctuation\" >></span></span>Page: {{page}} / {{numPages}}<span class=\"token tag\" ><span class=\"token tag\" ><span class=\"token punctuation\" >&lt;/</span>pre</span><span class=\"token punctuation\" >></span></span>\r\n"
 
-/***/ },
+/***/ }),
 /* 295 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
-	module.exports = "<span class=\"token keyword\" >import</span> <span class=\"token punctuation\" >{</span> Component<span class=\"token punctuation\" >,</span> OnInit <span class=\"token punctuation\" >}</span> from <span class=\"token string\" >'@angular/core'</span><span class=\"token punctuation\" >;</span>\n<span class=\"token keyword\" >import</span> <span class=\"token punctuation\" >{</span> TableData <span class=\"token punctuation\" >}</span> from <span class=\"token string\" >'./table-data'</span><span class=\"token punctuation\" >;</span>\n\n<span class=\"token comment\" spellcheck=\"true\">// webpack html imports</span>\n<span class=\"token keyword\" >let</span> template <span class=\"token operator\" >=</span> <span class=\"token function\" >require</span><span class=\"token punctuation\" >(</span><span class=\"token string\" >'./table-demo.html'</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n\n@<span class=\"token function\" >Component</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >{</span>\n  selector<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'table-demo'</span><span class=\"token punctuation\" >,</span>\n  template\n<span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span>\n<span class=\"token keyword\" >export</span> <span class=\"token keyword\" >class</span> <span class=\"token class-name\" >TableDemoComponent</span> <span class=\"token keyword\" >implements</span> <span class=\"token class-name\" >OnInit</span> <span class=\"token punctuation\" >{</span>\n  <span class=\"token keyword\" >public</span> rows<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >[</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> columns<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >[</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Name'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'name'</span><span class=\"token punctuation\" >,</span> filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> placeholder<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Filter by name'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>\n      title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Position'</span><span class=\"token punctuation\" >,</span>\n      name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'position'</span><span class=\"token punctuation\" >,</span>\n      sort<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >false</span><span class=\"token punctuation\" >,</span>\n      filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> placeholder<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Filter by position'</span><span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Office'</span><span class=\"token punctuation\" >,</span> className<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >[</span><span class=\"token string\" >'office-header'</span><span class=\"token punctuation\" >,</span> <span class=\"token string\" >'text-success'</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'office'</span><span class=\"token punctuation\" >,</span> sort<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'asc'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Extn.'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'ext'</span><span class=\"token punctuation\" >,</span> sort<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> placeholder<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Filter by extn.'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Start date'</span><span class=\"token punctuation\" >,</span> className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'text-warning'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'startDate'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Salary ($)'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'salary'</span><span class=\"token punctuation\" >}</span>\n  <span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> page<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> itemsPerPage<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >10</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> maxSize<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >5</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> numPages<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> length<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >public</span> config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >{</span>\n    paging<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >true</span><span class=\"token punctuation\" >,</span>\n    sorting<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>columns<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>columns<span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    className<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >[</span><span class=\"token string\" >'table-striped'</span><span class=\"token punctuation\" >,</span> <span class=\"token string\" >'table-bordered'</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >,</span>\n    idRow<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'name'</span>\n  <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >public</span> editConfig<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >{</span>\n    edit<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>\n      className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'btn btn-rounded btn-success'</span><span class=\"token punctuation\" >,</span>\n      icon<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'fa fa-pencil-square'</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token keyword\" >delete</span><span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>\n      className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'btn btn-danger'</span><span class=\"token punctuation\" >,</span>\n      title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Delete'</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    select<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>\n      name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'selection'</span><span class=\"token punctuation\" >,</span>\n      keyProperty<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'name'</span>\n    <span class=\"token punctuation\" >}</span>\n  <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >private</span> data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> TableData<span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token keyword\" >constructor</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>length <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>data<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >ngOnInit</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >void</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >onChangeTable</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >changePage</span><span class=\"token punctuation\" >(</span>page<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>data<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >let</span> start <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >(</span>page<span class=\"token punctuation\" >.</span>page <span class=\"token operator\" >-</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >*</span> page<span class=\"token punctuation\" >.</span>itemsPerPage<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> end <span class=\"token operator\" >=</span> page<span class=\"token punctuation\" >.</span>itemsPerPage <span class=\"token operator\" >></span> <span class=\"token operator\" >-</span><span class=\"token number\" >1</span> <span class=\"token operator\" >?</span> <span class=\"token punctuation\" >(</span>start <span class=\"token operator\" >+</span> page<span class=\"token punctuation\" >.</span>itemsPerPage<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >:</span> data<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >.</span><span class=\"token function\" >slice</span><span class=\"token punctuation\" >(</span>start<span class=\"token punctuation\" >,</span> end<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >changeSort</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span><span class=\"token operator\" >!</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >let</span> columns <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >.</span>columns <span class=\"token operator\" >||</span> <span class=\"token punctuation\" >[</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> columnName<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >string</span> <span class=\"token operator\" >=</span> <span class=\"token keyword\" >void</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> sort<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >string</span> <span class=\"token operator\" >=</span> <span class=\"token keyword\" >void</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n\n    <span class=\"token keyword\" >for</span> <span class=\"token punctuation\" >(</span><span class=\"token keyword\" >let</span> i <span class=\"token operator\" >=</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span> i <span class=\"token operator\" >&lt;</span> columns<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span> i<span class=\"token operator\" >++</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>sort <span class=\"token operator\" >!==</span> <span class=\"token string\" >''</span> <span class=\"token operator\" >&amp;&amp;</span> columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>sort <span class=\"token operator\" >!==</span> <span class=\"token keyword\" >false</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        columnName <span class=\"token operator\" >=</span> columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>name<span class=\"token punctuation\" >;</span>\n        sort <span class=\"token operator\" >=</span> columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>sort<span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span><span class=\"token operator\" >!</span>columnName<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token comment\" spellcheck=\"true\">// simple sorting</span>\n    <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >.</span><span class=\"token function\" >sort</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>previous<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> current<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>previous<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span> <span class=\"token operator\" >></span> current<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        <span class=\"token keyword\" >return</span> sort <span class=\"token operator\" >===</span> <span class=\"token string\" >'desc'</span> <span class=\"token operator\" >?</span> <span class=\"token operator\" >-</span><span class=\"token number\" >1</span> <span class=\"token punctuation\" >:</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span> <span class=\"token keyword\" >else</span> <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>previous<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span> <span class=\"token operator\" >&lt;</span> current<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        <span class=\"token keyword\" >return</span> sort <span class=\"token operator\" >===</span> <span class=\"token string\" >'asc'</span> <span class=\"token operator\" >?</span> <span class=\"token operator\" >-</span><span class=\"token number\" >1</span> <span class=\"token punctuation\" >:</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n      <span class=\"token keyword\" >return</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >changeFilter</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >let</span> filteredData<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> data<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>columns<span class=\"token punctuation\" >.</span><span class=\"token function\" >forEach</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        filteredData <span class=\"token operator\" >=</span> filteredData<span class=\"token punctuation\" >.</span><span class=\"token function\" >filter</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n          <span class=\"token keyword\" >return</span> item<span class=\"token punctuation\" >[</span>column<span class=\"token punctuation\" >.</span>name<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >match</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>filterString<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n        <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span><span class=\"token operator\" >!</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> filteredData<span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>columnName<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> filteredData<span class=\"token punctuation\" >.</span><span class=\"token function\" >filter</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span>\n        item<span class=\"token punctuation\" >[</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>columnName<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >match</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>filterString<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >let</span> tempArray<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >[</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n    filteredData<span class=\"token punctuation\" >.</span><span class=\"token function\" >forEach</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >let</span> flag <span class=\"token operator\" >=</span> <span class=\"token keyword\" >false</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>columns<span class=\"token punctuation\" >.</span><span class=\"token function\" >forEach</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n        <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >[</span>column<span class=\"token punctuation\" >.</span>name<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >toString</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >match</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>filterString<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n          flag <span class=\"token operator\" >=</span> <span class=\"token keyword\" >true</span><span class=\"token punctuation\" >;</span>\n        <span class=\"token punctuation\" >}</span>\n      <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>flag<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        tempArray<span class=\"token punctuation\" >.</span><span class=\"token function\" >push</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    filteredData <span class=\"token operator\" >=</span> tempArray<span class=\"token punctuation\" >;</span>\n\n    <span class=\"token keyword\" >return</span> filteredData<span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onChangeTable</span><span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> page<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >{</span>page<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>page<span class=\"token punctuation\" >,</span> itemsPerPage<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>itemsPerPage<span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      Object<span class=\"token punctuation\" >.</span><span class=\"token function\" >assign</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      Object<span class=\"token punctuation\" >.</span><span class=\"token function\" >assign</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >let</span> filteredData <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >changeFilter</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>data<span class=\"token punctuation\" >,</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> sortedData <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >changeSort</span><span class=\"token punctuation\" >(</span>filteredData<span class=\"token punctuation\" >,</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>rows <span class=\"token operator\" >=</span> page <span class=\"token operator\" >&amp;&amp;</span> config<span class=\"token punctuation\" >.</span>paging <span class=\"token operator\" >?</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >changePage</span><span class=\"token punctuation\" >(</span>page<span class=\"token punctuation\" >,</span> sortedData<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >:</span> sortedData<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>length <span class=\"token operator\" >=</span> sortedData<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onCellClick</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onEditClick</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onDeleteClick</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onSelectChange</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onSortChanged</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onFilterChanged</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n<span class=\"token punctuation\" >}</span>\n"
+	module.exports = "<span class=\"token keyword\" >import</span> <span class=\"token punctuation\" >{</span> Component<span class=\"token punctuation\" >,</span> OnInit <span class=\"token punctuation\" >}</span> from <span class=\"token string\" >'@angular/core'</span><span class=\"token punctuation\" >;</span>\n<span class=\"token keyword\" >import</span> <span class=\"token punctuation\" >{</span> TableData <span class=\"token punctuation\" >}</span> from <span class=\"token string\" >'./table-data'</span><span class=\"token punctuation\" >;</span>\n\n<span class=\"token comment\" spellcheck=\"true\">// webpack html imports</span>\n<span class=\"token keyword\" >let</span> template <span class=\"token operator\" >=</span> <span class=\"token function\" >require</span><span class=\"token punctuation\" >(</span><span class=\"token string\" >'./table-demo.html'</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n\n@<span class=\"token function\" >Component</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >{</span>\n  selector<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'table-demo'</span><span class=\"token punctuation\" >,</span>\n  styles<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >[</span><span class=\"token string\" >'/deep/ .edit-column-class {white-space: nowrap}'</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >,</span>\n  template\n<span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span>\n<span class=\"token keyword\" >export</span> <span class=\"token keyword\" >class</span> <span class=\"token class-name\" >TableDemoComponent</span> <span class=\"token keyword\" >implements</span> <span class=\"token class-name\" >OnInit</span> <span class=\"token punctuation\" >{</span>\n  <span class=\"token keyword\" >public</span> rows<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >[</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> columns<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >[</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Name'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'name'</span><span class=\"token punctuation\" >,</span> filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> placeholder<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Filter by name'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>\n      title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Position'</span><span class=\"token punctuation\" >,</span>\n      name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'position'</span><span class=\"token punctuation\" >,</span>\n      sort<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >false</span><span class=\"token punctuation\" >,</span>\n      filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> placeholder<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Filter by position'</span><span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Office'</span><span class=\"token punctuation\" >,</span> className<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >[</span><span class=\"token string\" >'office-header'</span><span class=\"token punctuation\" >,</span> <span class=\"token string\" >'text-success'</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'office'</span><span class=\"token punctuation\" >,</span> sort<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'asc'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Extn.'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'ext'</span><span class=\"token punctuation\" >,</span> sort<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >,</span> placeholder<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Filter by extn.'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Start date'</span><span class=\"token punctuation\" >,</span> className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'text-warning'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'startDate'</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token punctuation\" >{</span>title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Salary ($)'</span><span class=\"token punctuation\" >,</span> name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'salary'</span><span class=\"token punctuation\" >}</span>\n  <span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> page<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> itemsPerPage<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >10</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> maxSize<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >5</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> numPages<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token keyword\" >public</span> length<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >number</span> <span class=\"token operator\" >=</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >public</span> config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >{</span>\n    paging<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >true</span><span class=\"token punctuation\" >,</span>\n    sorting<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>columns<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>columns<span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    filtering<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>filterString<span class=\"token punctuation\" >:</span> <span class=\"token string\" >''</span><span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    className<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >[</span><span class=\"token string\" >'table-striped'</span><span class=\"token punctuation\" >,</span> <span class=\"token string\" >'table-bordered'</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >,</span>\n    idRow<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'name'</span>\n  <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >public</span> editConfig<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token string\" >'title'</span><span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Select me'</span><span class=\"token punctuation\" >,</span>\n    className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'edit-column-class'</span><span class=\"token punctuation\" >,</span>\n    edit<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>\n      className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'btn btn-rounded btn-success'</span><span class=\"token punctuation\" >,</span>\n      icon<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'fa fa-pencil-square'</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    <span class=\"token keyword\" >delete</span><span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>\n      className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'btn btn-danger'</span><span class=\"token punctuation\" >,</span>\n      title<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'Delete'</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >,</span>\n    select<span class=\"token punctuation\" >:</span> <span class=\"token punctuation\" >{</span>\n      name<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'selection'</span><span class=\"token punctuation\" >,</span>\n      keyProperty<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'name'</span><span class=\"token punctuation\" >,</span>\n      stateProperty<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'state'</span><span class=\"token punctuation\" >,</span>\n      className<span class=\"token punctuation\" >:</span> <span class=\"token string\" >'checkbox-class'</span>\n    <span class=\"token punctuation\" >}</span>\n  <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >private</span> data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> TableData<span class=\"token punctuation\" >;</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token keyword\" >constructor</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>length <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>data<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >ngOnInit</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >void</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >onChangeTable</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >changePage</span><span class=\"token punctuation\" >(</span>page<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>data<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >let</span> start <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >(</span>page<span class=\"token punctuation\" >.</span>page <span class=\"token operator\" >-</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >*</span> page<span class=\"token punctuation\" >.</span>itemsPerPage<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> end <span class=\"token operator\" >=</span> page<span class=\"token punctuation\" >.</span>itemsPerPage <span class=\"token operator\" >></span> <span class=\"token operator\" >-</span><span class=\"token number\" >1</span> <span class=\"token operator\" >?</span> <span class=\"token punctuation\" >(</span>start <span class=\"token operator\" >+</span> page<span class=\"token punctuation\" >.</span>itemsPerPage<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >:</span> data<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >.</span><span class=\"token function\" >slice</span><span class=\"token punctuation\" >(</span>start<span class=\"token punctuation\" >,</span> end<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >changeSort</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span><span class=\"token operator\" >!</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >let</span> columns <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >.</span>columns <span class=\"token operator\" >||</span> <span class=\"token punctuation\" >[</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> columnName<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >string</span> <span class=\"token operator\" >=</span> <span class=\"token keyword\" >void</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> sort<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >string</span> <span class=\"token operator\" >=</span> <span class=\"token keyword\" >void</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n\n    <span class=\"token keyword\" >for</span> <span class=\"token punctuation\" >(</span><span class=\"token keyword\" >let</span> i <span class=\"token operator\" >=</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span> i <span class=\"token operator\" >&lt;</span> columns<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span> i<span class=\"token operator\" >++</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>sort <span class=\"token operator\" >!==</span> <span class=\"token string\" >''</span> <span class=\"token operator\" >&amp;&amp;</span> columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>sort <span class=\"token operator\" >!==</span> <span class=\"token keyword\" >false</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        columnName <span class=\"token operator\" >=</span> columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>name<span class=\"token punctuation\" >;</span>\n        sort <span class=\"token operator\" >=</span> columns<span class=\"token punctuation\" >[</span>i<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span>sort<span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span><span class=\"token operator\" >!</span>columnName<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token comment\" spellcheck=\"true\">// simple sorting</span>\n    <span class=\"token keyword\" >return</span> data<span class=\"token punctuation\" >.</span><span class=\"token function\" >sort</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>previous<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> current<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>previous<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span> <span class=\"token operator\" >></span> current<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        <span class=\"token keyword\" >return</span> sort <span class=\"token operator\" >===</span> <span class=\"token string\" >'desc'</span> <span class=\"token operator\" >?</span> <span class=\"token operator\" >-</span><span class=\"token number\" >1</span> <span class=\"token punctuation\" >:</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span> <span class=\"token keyword\" >else</span> <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>previous<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span> <span class=\"token operator\" >&lt;</span> current<span class=\"token punctuation\" >[</span>columnName<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        <span class=\"token keyword\" >return</span> sort <span class=\"token operator\" >===</span> <span class=\"token string\" >'asc'</span> <span class=\"token operator\" >?</span> <span class=\"token operator\" >-</span><span class=\"token number\" >1</span> <span class=\"token punctuation\" >:</span> <span class=\"token number\" >1</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n      <span class=\"token keyword\" >return</span> <span class=\"token number\" >0</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >changeFilter</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    <span class=\"token keyword\" >let</span> filteredData<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> data<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>columns<span class=\"token punctuation\" >.</span><span class=\"token function\" >forEach</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        filteredData <span class=\"token operator\" >=</span> filteredData<span class=\"token punctuation\" >.</span><span class=\"token function\" >filter</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n          <span class=\"token keyword\" >return</span> item<span class=\"token punctuation\" >[</span>column<span class=\"token punctuation\" >.</span>name<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >match</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>filterString<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n        <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span><span class=\"token operator\" >!</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> filteredData<span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>columnName<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >return</span> filteredData<span class=\"token punctuation\" >.</span><span class=\"token function\" >filter</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span>\n        item<span class=\"token punctuation\" >[</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>columnName<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >match</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>filterString<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >let</span> tempArray<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >Array</span><span class=\"token operator\" >&lt;</span><span class=\"token keyword\" >any</span><span class=\"token operator\" >></span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >[</span><span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >;</span>\n    filteredData<span class=\"token punctuation\" >.</span><span class=\"token function\" >forEach</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n      <span class=\"token keyword\" >let</span> flag <span class=\"token operator\" >=</span> <span class=\"token keyword\" >false</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>columns<span class=\"token punctuation\" >.</span><span class=\"token function\" >forEach</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span> <span class=\"token operator\" >=</span><span class=\"token operator\" >></span> <span class=\"token punctuation\" >{</span>\n        <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >[</span>column<span class=\"token punctuation\" >.</span>name<span class=\"token punctuation\" >]</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >toString</span><span class=\"token punctuation\" >(</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >match</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >.</span>filterString<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n          flag <span class=\"token operator\" >=</span> <span class=\"token keyword\" >true</span><span class=\"token punctuation\" >;</span>\n        <span class=\"token punctuation\" >}</span>\n      <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>flag<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n        tempArray<span class=\"token punctuation\" >.</span><span class=\"token function\" >push</span><span class=\"token punctuation\" >(</span>item<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n      <span class=\"token punctuation\" >}</span>\n    <span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    filteredData <span class=\"token operator\" >=</span> tempArray<span class=\"token punctuation\" >;</span>\n\n    <span class=\"token keyword\" >return</span> filteredData<span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onChangeTable</span><span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span><span class=\"token punctuation\" >,</span> page<span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token operator\" >=</span> <span class=\"token punctuation\" >{</span>page<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>page<span class=\"token punctuation\" >,</span> itemsPerPage<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>itemsPerPage<span class=\"token punctuation\" >}</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span><span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      Object<span class=\"token punctuation\" >.</span><span class=\"token function\" >assign</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >.</span>filtering<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >if</span> <span class=\"token punctuation\" >(</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >{</span>\n      Object<span class=\"token punctuation\" >.</span><span class=\"token function\" >assign</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >,</span> config<span class=\"token punctuation\" >.</span>sorting<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token punctuation\" >}</span>\n\n    <span class=\"token keyword\" >let</span> filteredData <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >changeFilter</span><span class=\"token punctuation\" >(</span><span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>data<span class=\"token punctuation\" >,</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >let</span> sortedData <span class=\"token operator\" >=</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >changeSort</span><span class=\"token punctuation\" >(</span>filteredData<span class=\"token punctuation\" >,</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>config<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>rows <span class=\"token operator\" >=</span> page <span class=\"token operator\" >&amp;&amp;</span> config<span class=\"token punctuation\" >.</span>paging <span class=\"token operator\" >?</span> <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span><span class=\"token function\" >changePage</span><span class=\"token punctuation\" >(</span>page<span class=\"token punctuation\" >,</span> sortedData<span class=\"token punctuation\" >)</span> <span class=\"token punctuation\" >:</span> sortedData<span class=\"token punctuation\" >;</span>\n    <span class=\"token keyword\" >this</span><span class=\"token punctuation\" >.</span>length <span class=\"token operator\" >=</span> sortedData<span class=\"token punctuation\" >.</span>length<span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onCellClick</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onEditClick</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onDeleteClick</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>row<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onSelectChange</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>data<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onSortChanged</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n\n  <span class=\"token keyword\" >public</span> <span class=\"token function\" >onFilterChanged</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span><span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >:</span> <span class=\"token keyword\" >any</span> <span class=\"token punctuation\" >{</span>\n    console<span class=\"token punctuation\" >.</span><span class=\"token function\" >log</span><span class=\"token punctuation\" >(</span>column<span class=\"token punctuation\" >)</span><span class=\"token punctuation\" >;</span>\n  <span class=\"token punctuation\" >}</span>\n<span class=\"token punctuation\" >}</span>\n"
 
-/***/ },
+/***/ }),
 /* 296 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
-	module.exports = "<br>\n<section id=\"{{name.toLowerCase()}}\">\n  <div class=\"row\"><h1>{{name}}<small>(<a href=\"{{src}}\">src</a>)</small></h1></div>\n\n  <hr>\n\n  <div class=\"row\"><div class=\"col-md-12\" [innerHTML]=\"titleDoc\"></div></div>\n\n  <div class=\"row\">\n    <h2>Example</h2>\n    <div class=\"card card-block panel panel-default panel-body\">\n      <table-demo></table-demo>\n    </div>\n  </div>\n\n  <br>\n\n  <div class=\"row\">\n    <tabset>\n      <tab heading=\"Markup\">\n        <div class=\"card card-block panel panel-default panel-body\">\n          <pre class=\"language-html\"><code class=\"language-html\" [innerHTML]=\"html\"></code></pre>\n        </div>\n      </tab>\n      <tab heading=\"TypeScript\">\n        <div class=\"card card-block panel panel-default panel-body\">\n          <pre class=\"language-typescript\"><code class=\"language-typescript\" [innerHTML]=\"ts\"></code></pre>\n        </div>\n      </tab>\n    </tabset>\n  </div>\n\n  <br>\n\n  <div class=\"row\">\n    <h2>API</h2>\n    <div class=\"card card-block panel panel-default panel-body\" [innerHTML]=\"doc\"></div>\n  </div>\n</section>\n"
+	module.exports = "<br>\r\n<section id=\"{{name.toLowerCase()}}\">\r\n  <div class=\"row\"><h1>{{name}}<small>(<a href=\"{{src}}\">src</a>)</small></h1></div>\r\n\r\n  <hr>\r\n\r\n  <div class=\"row\"><div class=\"col-md-12\" [innerHTML]=\"titleDoc\"></div></div>\r\n\r\n  <div class=\"row\">\r\n    <h2>Example</h2>\r\n    <div class=\"card card-block panel panel-default panel-body\">\r\n      <table-demo></table-demo>\r\n    </div>\r\n  </div>\r\n\r\n  <br>\r\n\r\n  <div class=\"row\">\r\n    <tabset>\r\n      <tab heading=\"Markup\">\r\n        <div class=\"card card-block panel panel-default panel-body\">\r\n          <pre class=\"language-html\"><code class=\"language-html\" [innerHTML]=\"html\"></code></pre>\r\n        </div>\r\n      </tab>\r\n      <tab heading=\"TypeScript\">\r\n        <div class=\"card card-block panel panel-default panel-body\">\r\n          <pre class=\"language-typescript\"><code class=\"language-typescript\" [innerHTML]=\"ts\"></code></pre>\r\n        </div>\r\n      </tab>\r\n    </tabset>\r\n  </div>\r\n\r\n  <br>\r\n\r\n  <div class=\"row\">\r\n    <h2>API</h2>\r\n    <div class=\"card card-block panel panel-default panel-body\" [innerHTML]=\"doc\"></div>\r\n  </div>\r\n</section>\r\n"
 
-/***/ },
+/***/ }),
 /* 297 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
-	module.exports = "<div class=\"row\">\n  <div class=\"col-md-4\">\n    <input *ngIf=\"config.filtering\" placeholder=\"Filter all columns\"\n           [ngTableFiltering]=\"config.filtering\"\n           class=\"form-control\"\n           (tableChanged)=\"onChangeTable(config)\"/>\n  </div>\n</div>\n<br>\n<ng-table [config]=\"config\"\n          [editConfig]=\"editConfig\"\n          (tableChanged)=\"onChangeTable($event)\"\n          (cellClicked)=\"onCellClick($event)\"\n          (editClicked)=\"onEditClick($event)\"\n          (deleteClicked)=\"onDeleteClick($event)\"\n          (selectChange)=\"onSelectChange($event)\"\n          (sortChanged)=\"onSortChanged($event)\"\n          (filterChanged)=\"onFilterChanged($event)\"\n          [rows]=\"rows\" [columns]=\"columns\">\n</ng-table>\n<pagination *ngIf=\"config.paging\"\n            class=\"pagination-sm\"\n            [(ngModel)]=\"page\"\n            [totalItems]=\"length\"\n            [itemsPerPage]=\"itemsPerPage\"\n            [maxSize]=\"maxSize\"\n            [boundaryLinks]=\"true\"\n            [rotate]=\"false\"\n            (pageChanged)=\"onChangeTable(config, $event)\"\n            (numPages)=\"numPages = $event\">\n</pagination>\n<pre *ngIf=\"config.paging\" class=\"card card-block card-header\">Page: {{page}} / {{numPages}}</pre>\n"
+	module.exports = "<div class=\"row\">\r\n  <div class=\"col-md-4\">\r\n    <input *ngIf=\"config.filtering\" placeholder=\"Filter all columns\"\r\n           [ngTableFiltering]=\"config.filtering\"\r\n           class=\"form-control\"\r\n           (tableChanged)=\"onChangeTable(config)\"/>\r\n  </div>\r\n</div>\r\n<br>\r\n<ng-table [config]=\"config\"\r\n          [editConfig]=\"editConfig\"\r\n          (tableChanged)=\"onChangeTable($event)\"\r\n          (cellClicked)=\"onCellClick($event)\"\r\n          (editClicked)=\"onEditClick($event)\"\r\n          (deleteClicked)=\"onDeleteClick($event)\"\r\n          (selectChange)=\"onSelectChange($event)\"\r\n          (sortChanged)=\"onSortChanged($event)\"\r\n          (filterChanged)=\"onFilterChanged($event)\"\r\n          [rows]=\"rows\" [columns]=\"columns\">\r\n</ng-table>\r\n<pagination *ngIf=\"config.paging\"\r\n            class=\"pagination-sm\"\r\n            [(ngModel)]=\"page\"\r\n            [totalItems]=\"length\"\r\n            [itemsPerPage]=\"itemsPerPage\"\r\n            [maxSize]=\"maxSize\"\r\n            [boundaryLinks]=\"true\"\r\n            [rotate]=\"false\"\r\n            (pageChanged)=\"onChangeTable(config, $event)\"\r\n            (numPages)=\"numPages = $event\">\r\n</pagination>\r\n<pre *ngIf=\"config.paging\" class=\"card card-block card-header\">Page: {{page}} / {{numPages}}</pre>\r\n"
 
-/***/ },
+/***/ }),
 /* 298 */,
 /* 299 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var Observable_1 = __webpack_require__(9);
@@ -19192,11 +19192,11 @@ webpackJsonp([1],[
 	exports.Notification = Notification;
 	//# sourceMappingURL=Notification.js.map
 
-/***/ },
+/***/ }),
 /* 300 */,
 /* 301 */,
 /* 302 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	/**
@@ -19248,10 +19248,10 @@ webpackJsonp([1],[
 	exports.Scheduler = Scheduler;
 	//# sourceMappingURL=Scheduler.js.map
 
-/***/ },
+/***/ }),
 /* 303 */,
 /* 304 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var Observable_1 = __webpack_require__(9);
@@ -19259,9 +19259,9 @@ webpackJsonp([1],[
 	Observable_1.Observable.from = from_1.from;
 	//# sourceMappingURL=from.js.map
 
-/***/ },
+/***/ }),
 /* 305 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var Observable_1 = __webpack_require__(9);
@@ -19269,9 +19269,9 @@ webpackJsonp([1],[
 	Observable_1.Observable.prototype.debounceTime = debounceTime_1.debounceTime;
 	//# sourceMappingURL=debounceTime.js.map
 
-/***/ },
+/***/ }),
 /* 306 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var Observable_1 = __webpack_require__(9);
@@ -19279,9 +19279,9 @@ webpackJsonp([1],[
 	Observable_1.Observable.prototype.filter = filter_1.filter;
 	//# sourceMappingURL=filter.js.map
 
-/***/ },
+/***/ }),
 /* 307 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var Observable_1 = __webpack_require__(9);
@@ -19289,9 +19289,9 @@ webpackJsonp([1],[
 	Observable_1.Observable.prototype.toArray = toArray_1.toArray;
 	//# sourceMappingURL=toArray.js.map
 
-/***/ },
+/***/ }),
 /* 308 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -19364,9 +19364,9 @@ webpackJsonp([1],[
 	exports.ArrayLikeObservable = ArrayLikeObservable;
 	//# sourceMappingURL=ArrayLikeObservable.js.map
 
-/***/ },
+/***/ }),
 /* 309 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -19491,9 +19491,9 @@ webpackJsonp([1],[
 	exports.ArrayObservable = ArrayObservable;
 	//# sourceMappingURL=ArrayObservable.js.map
 
-/***/ },
+/***/ }),
 /* 310 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -19612,9 +19612,9 @@ webpackJsonp([1],[
 	exports.FromObservable = FromObservable;
 	//# sourceMappingURL=FromObservable.js.map
 
-/***/ },
+/***/ }),
 /* 311 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -19774,19 +19774,19 @@ webpackJsonp([1],[
 	}
 	//# sourceMappingURL=IteratorObservable.js.map
 
-/***/ },
+/***/ }),
 /* 312 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var FromObservable_1 = __webpack_require__(310);
 	exports.from = FromObservable_1.FromObservable.create;
 	//# sourceMappingURL=from.js.map
 
-/***/ },
+/***/ }),
 /* 313 */,
 /* 314 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -19905,9 +19905,9 @@ webpackJsonp([1],[
 	}
 	//# sourceMappingURL=debounceTime.js.map
 
-/***/ },
+/***/ }),
 /* 315 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -20003,11 +20003,11 @@ webpackJsonp([1],[
 	}(Subscriber_1.Subscriber));
 	//# sourceMappingURL=filter.js.map
 
-/***/ },
+/***/ }),
 /* 316 */,
 /* 317 */,
 /* 318 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -20085,9 +20085,9 @@ webpackJsonp([1],[
 	exports.ObserveOnMessage = ObserveOnMessage;
 	//# sourceMappingURL=observeOn.js.map
 
-/***/ },
+/***/ }),
 /* 319 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -20135,10 +20135,10 @@ webpackJsonp([1],[
 	}(Subscriber_1.Subscriber));
 	//# sourceMappingURL=toArray.js.map
 
-/***/ },
+/***/ }),
 /* 320 */,
 /* 321 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -20185,9 +20185,9 @@ webpackJsonp([1],[
 	exports.Action = Action;
 	//# sourceMappingURL=Action.js.map
 
-/***/ },
+/***/ }),
 /* 322 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -20332,9 +20332,9 @@ webpackJsonp([1],[
 	exports.AsyncAction = AsyncAction;
 	//# sourceMappingURL=AsyncAction.js.map
 
-/***/ },
+/***/ }),
 /* 323 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var __extends = (this && this.__extends) || function (d, b) {
@@ -20388,9 +20388,9 @@ webpackJsonp([1],[
 	exports.AsyncScheduler = AsyncScheduler;
 	//# sourceMappingURL=AsyncScheduler.js.map
 
-/***/ },
+/***/ }),
 /* 324 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var AsyncAction_1 = __webpack_require__(322);
@@ -20398,12 +20398,12 @@ webpackJsonp([1],[
 	exports.async = new AsyncScheduler_1.AsyncScheduler(AsyncAction_1.AsyncAction);
 	//# sourceMappingURL=async.js.map
 
-/***/ },
+/***/ }),
 /* 325 */,
 /* 326 */,
 /* 327 */,
 /* 328 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	function isScheduler(value) {
@@ -20412,7 +20412,7 @@ webpackJsonp([1],[
 	exports.isScheduler = isScheduler;
 	//# sourceMappingURL=isScheduler.js.map
 
-/***/ },
+/***/ }),
 /* 329 */,
 /* 330 */,
 /* 331 */,
@@ -20573,7 +20573,7 @@ webpackJsonp([1],[
 /* 486 */,
 /* 487 */,
 /* 488 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var accordion_group_component_1 = __webpack_require__(163);
@@ -20584,9 +20584,9 @@ webpackJsonp([1],[
 	exports.AccordionModule = accordion_module_1.AccordionModule;
 
 
-/***/ },
+/***/ }),
 /* 489 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var alert_component_1 = __webpack_require__(164);
@@ -20595,9 +20595,9 @@ webpackJsonp([1],[
 	exports.AlertModule = alert_module_1.AlertModule;
 
 
-/***/ },
+/***/ }),
 /* 490 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var button_checkbox_directive_1 = __webpack_require__(165);
@@ -20608,9 +20608,9 @@ webpackJsonp([1],[
 	exports.ButtonsModule = buttons_module_1.ButtonsModule;
 
 
-/***/ },
+/***/ }),
 /* 491 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var carousel_component_1 = __webpack_require__(99);
@@ -20621,9 +20621,9 @@ webpackJsonp([1],[
 	exports.SlideComponent = slide_component_1.SlideComponent;
 
 
-/***/ },
+/***/ }),
 /* 492 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var collapse_directive_1 = __webpack_require__(168);
@@ -20632,9 +20632,9 @@ webpackJsonp([1],[
 	exports.CollapseModule = collapse_module_1.CollapseModule;
 
 
-/***/ },
+/***/ }),
 /* 493 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	/*
@@ -20651,9 +20651,9 @@ webpackJsonp([1],[
 	exports.DatepickerModule = datepicker_module_1.DatepickerModule;
 
 
-/***/ },
+/***/ }),
 /* 494 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var moment = __webpack_require__(1);
@@ -20668,9 +20668,9 @@ webpackJsonp([1],[
 	exports.DateFormatter = DateFormatter;
 
 
-/***/ },
+/***/ }),
 /* 495 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -20795,9 +20795,9 @@ webpackJsonp([1],[
 	var _a;
 
 
-/***/ },
+/***/ }),
 /* 496 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -20854,9 +20854,9 @@ webpackJsonp([1],[
 	exports.MonthPickerComponent = MonthPickerComponent;
 
 
-/***/ },
+/***/ }),
 /* 497 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -20915,9 +20915,9 @@ webpackJsonp([1],[
 	exports.YearPickerComponent = YearPickerComponent;
 
 
-/***/ },
+/***/ }),
 /* 498 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var dropdown_menu_directive_1 = __webpack_require__(171);
@@ -20930,9 +20930,9 @@ webpackJsonp([1],[
 	exports.DropdownModule = dropdown_module_1.DropdownModule;
 
 
-/***/ },
+/***/ }),
 /* 499 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
 	exports.ALWAYS = 'always';
@@ -21010,9 +21010,9 @@ webpackJsonp([1],[
 
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
-/***/ },
+/***/ }),
 /* 500 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -21054,9 +21054,9 @@ webpackJsonp([1],[
 	exports.Ng2BootstrapModule = Ng2BootstrapModule;
 
 
-/***/ },
+/***/ }),
 /* 501 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	function __export(m) {
@@ -21069,9 +21069,9 @@ webpackJsonp([1],[
 	exports.ModalModule = modal_module_1.ModalModule;
 
 
-/***/ },
+/***/ }),
 /* 502 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var pager_component_1 = __webpack_require__(174);
@@ -21082,9 +21082,9 @@ webpackJsonp([1],[
 	exports.PaginationModule = pagination_module_1.PaginationModule;
 
 
-/***/ },
+/***/ }),
 /* 503 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var bar_component_1 = __webpack_require__(175);
@@ -21097,9 +21097,9 @@ webpackJsonp([1],[
 	exports.ProgressbarModule = progressbar_module_1.ProgressbarModule;
 
 
-/***/ },
+/***/ }),
 /* 504 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var rating_component_1 = __webpack_require__(177);
@@ -21108,9 +21108,9 @@ webpackJsonp([1],[
 	exports.RatingModule = rating_module_1.RatingModule;
 
 
-/***/ },
+/***/ }),
 /* 505 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var tab_heading_directive_1 = __webpack_require__(178);
@@ -21123,9 +21123,9 @@ webpackJsonp([1],[
 	exports.TabsModule = tabs_module_1.TabsModule;
 
 
-/***/ },
+/***/ }),
 /* 506 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var timepicker_component_1 = __webpack_require__(179);
@@ -21134,9 +21134,9 @@ webpackJsonp([1],[
 	exports.TimepickerModule = timepicker_module_1.TimepickerModule;
 
 
-/***/ },
+/***/ }),
 /* 507 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var tooltip_container_component_1 = __webpack_require__(116);
@@ -21147,9 +21147,9 @@ webpackJsonp([1],[
 	exports.TooltipModule = tooltip_module_1.TooltipModule;
 
 
-/***/ },
+/***/ }),
 /* 508 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var typeahead_container_component_1 = __webpack_require__(118);
@@ -21162,9 +21162,9 @@ webpackJsonp([1],[
 	exports.TypeaheadModule = typeahead_module_1.TypeaheadModule;
 
 
-/***/ },
+/***/ }),
 /* 509 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	exports.latinMap = {
@@ -21995,9 +21995,9 @@ webpackJsonp([1],[
 	};
 
 
-/***/ },
+/***/ }),
 /* 510 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var browser_1 = __webpack_require__(121);
@@ -22023,12 +22023,12 @@ webpackJsonp([1],[
 	exports.Utils = Utils;
 
 
-/***/ },
+/***/ }),
 /* 511 */,
 /* 512 */,
 /* 513 */,
 /* 514 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	module.exports = function(module) {
 		if(!module.webpackPolyfill) {
@@ -22042,11 +22042,11 @@ webpackJsonp([1],[
 	}
 
 
-/***/ },
+/***/ }),
 /* 515 */,
 /* 516 */,
 /* 517 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -22071,9 +22071,9 @@ webpackJsonp([1],[
 	exports.Ng2TableModule = Ng2TableModule;
 	
 
-/***/ },
+/***/ }),
 /* 518 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -22134,9 +22134,9 @@ webpackJsonp([1],[
 	exports.NgTableFilteringDirective = NgTableFilteringDirective;
 	
 
-/***/ },
+/***/ }),
 /* 519 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -22188,9 +22188,9 @@ webpackJsonp([1],[
 	exports.NgTablePagingDirective = NgTablePagingDirective;
 	
 
-/***/ },
+/***/ }),
 /* 520 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -22258,9 +22258,9 @@ webpackJsonp([1],[
 	exports.NgTableSortingDirective = NgTableSortingDirective;
 	
 
-/***/ },
+/***/ }),
 /* 521 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -22305,6 +22305,7 @@ webpackJsonp([1],[
 	        },
 	        set: function (values) {
 	            var _this = this;
+	            console.log(values);
 	            values.forEach(function (value) {
 	                if (value.filtering) {
 	                    _this.showFilterRow = true;
@@ -22410,7 +22411,8 @@ webpackJsonp([1],[
 	    NgTableComponent.prototype.cellClick = function (row, column) {
 	        this.cellClicked.emit({ row: row, column: column });
 	    };
-	    NgTableComponent.prototype.onSelectChange = function (checked, key) {
+	    NgTableComponent.prototype.onSelectChange = function (checked, row, key) {
+	        row[this._editConfig.select.stateProperty] = checked;
 	        this.selectChange.emit({ selected: checked, key: key });
 	    };
 	    NgTableComponent.prototype.onEdit = function (row) {
@@ -22424,6 +22426,14 @@ webpackJsonp([1],[
 	            return row[this.config.idRow];
 	        }
 	        return index;
+	    };
+	    NgTableComponent.prototype.checkAll = function (ev) {
+	        var _this = this;
+	        this.rows.forEach(function (row) { return row[_this._editConfig.select.stateProperty] = ev.target.checked; });
+	    };
+	    NgTableComponent.prototype.isAllChecked = function () {
+	        var _this = this;
+	        return this.rows.every(function (row) { return row[_this._editConfig.select.stateProperty]; });
 	    };
 	    __decorate([
 	        core_1.Input(), 
@@ -22475,7 +22485,7 @@ webpackJsonp([1],[
 	    NgTableComponent = __decorate([
 	        core_1.Component({
 	            selector: 'ng-table',
-	            template: "\n    <table class=\"table dataTable\" ngClass=\"{{config.className || ''}}\"\n           role=\"grid\" style=\"width: 100%;\">\n      <thead>\n        <tr role=\"row\">\n          <th *ngIf=\"editConfig.show\">\n            {{ editConfig.title }}\n          </th>\n          <th *ngFor=\"let column of columns\" [ngTableSorting]=\"config\" [column]=\"column\" \n              (sortChanged)=\"onSortChanged($event)\" ngClass=\"{{column.className || ''}}\">\n            {{column.title}}\n            <i *ngIf=\"config && column.sort\" class=\"pull-right fa\"\n              [ngClass]=\"{'fa-chevron-down': column.sort === 'desc', 'fa-chevron-up': column.sort === 'asc'}\"></i>\n          </th>\n        </tr>\n      </thead>\n      <tbody>\n      <tr *ngIf=\"showFilterRow\">\n        <td *ngIf=\"editConfig.show\"></td>\n        <td *ngFor=\"let column of columns\">\n          <input *ngIf=\"column.filtering\" placeholder=\"{{column.filtering.placeholder}}\"\n                 [ngTableFiltering]=\"column.filtering\"\n                 class=\"form-control\"\n                 style=\"width: auto;\"\n                 (keyup)=\"onColumnFilterChanged(column)\"/>\n        </td>\n      </tr>\n        <tr *ngFor=\"let row of rows; trackBy: trackByRow\">\n          <td *ngIf=\"editConfig.show\" ngClass=\"{{editConfig.className || ''}}\">\n            <input *ngIf=\"editConfig.select\" type=\"checkbox\" [name]=\"editConfig.select.name\" [id]=\"row[editConfig.select.keyProperty]\" ngClass=\"{{editConfig.select.className || ''}}\" (change)=\"onSelectChange($event.target.checked, row[editConfig.select.keyProperty])\" />\n            <button *ngIf=\"editConfig.edit\" type=\"button\" ngClass=\"{{editConfig.edit.className || ''}}\" (click)=\"onEdit(row)\"><span *ngIf=\"editConfig.edit.icon\" [class]=\"editConfig.edit.icon\"></span>{{ editConfig.edit.title }}</button>\n            <button *ngIf=\"editConfig.delete\" type=\"button\" ngClass=\"{{editConfig.delete.className || ''}}\" (click)=\"onDelete(row)\"><span *ngIf=\"editConfig.delete.icon\" [class]=\"editConfig.delete.icon\"></span>{{ editConfig.delete.title }}</button>\n          </td>\n          <td (click)=\"cellClick(row, column.name)\" *ngFor=\"let column of columns\" [innerHtml]=\"sanitize(getData(row, column.name))\"></td>\n        </tr>\n      </tbody>\n    </table>\n  "
+	            template: "\n    <table class=\"table dataTable\" ngClass=\"{{config.className || ''}}\"\n           role=\"grid\" style=\"width: 100%;\">\n      <thead>\n        <tr role=\"row\">\n          <th *ngIf=\"editConfig.show\" ngClass=\"{{editConfig.className || ''}}\">\n            <input type=\"checkbox\" name=\"all\" [checked]=\"isAllChecked()\" (change)=\"checkAll($event)\"/>\n            <span ngClass=\"{{editConfig.select.className || ''}}\">{{ editConfig.title }}</span>\n          </th>\n          <th *ngFor=\"let column of columns\" [ngTableSorting]=\"config\" [column]=\"column\" \n              (sortChanged)=\"onSortChanged($event)\" ngClass=\"{{column.className || ''}}\">\n            {{column.title}}\n            <i *ngIf=\"config && column.sort\" class=\"pull-right fa\"\n              [ngClass]=\"{'fa-chevron-down': column.sort === 'desc', 'fa-chevron-up': column.sort === 'asc'}\"></i>\n          </th>\n        </tr>\n      </thead>\n      <tbody>\n      <tr *ngIf=\"showFilterRow\">\n        <td *ngIf=\"editConfig.show\"></td>\n        <td *ngFor=\"let column of columns\">\n          <input *ngIf=\"column.filtering\" placeholder=\"{{column.filtering.placeholder}}\"\n                 [ngTableFiltering]=\"column.filtering\"\n                 class=\"form-control\"\n                 style=\"width: auto;\"\n                 (keyup)=\"onColumnFilterChanged(column)\"/>\n        </td>\n      </tr>\n        <tr *ngFor=\"let row of rows; trackBy: trackByRow\">\n          <td *ngIf=\"editConfig.show\" ngClass=\"{{editConfig.className || ''}}\">\n            <input *ngIf=\"editConfig.select\" type=\"checkbox\" [(checked)]=\"row[editConfig.select.stateProperty]\" [name]=\"editConfig.select.name\" [id]=\"row[editConfig.select.keyProperty]\" ngClass=\"{{editConfig.select.className || ''}}\" (change)=\"onSelectChange($event.target.checked, row, editConfig.select.keyProperty)\" />\n            <button *ngIf=\"editConfig.edit\" type=\"button\" ngClass=\"{{editConfig.edit.className || ''}}\" (click)=\"onEdit(row)\"><span *ngIf=\"editConfig.edit.icon\" [class]=\"editConfig.edit.icon\"></span>{{ editConfig.edit.title }}</button>\n            <button *ngIf=\"editConfig.delete\" type=\"button\" ngClass=\"{{editConfig.delete.className || ''}}\" (click)=\"onDelete(row)\"><span *ngIf=\"editConfig.delete.icon\" [class]=\"editConfig.delete.icon\"></span>{{ editConfig.delete.title }}</button>\n          </td>\n          <td (click)=\"cellClick(row, column.name)\" *ngFor=\"let column of columns\" [innerHtml]=\"sanitize(getData(row, column.name))\"></td>\n        </tr>\n      </tbody>\n    </table>\n  "
 	        }), 
 	        __metadata('design:paramtypes', [platform_browser_1.DomSanitizer])
 	    ], NgTableComponent);
@@ -22484,9 +22494,9 @@ webpackJsonp([1],[
 	exports.NgTableComponent = NgTableComponent;
 	
 
-/***/ },
+/***/ }),
 /* 522 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -22516,9 +22526,9 @@ webpackJsonp([1],[
 	exports.TableSectionComponent = TableSectionComponent;
 	
 
-/***/ },
+/***/ }),
 /* 523 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	"use strict";
 	exports.TableData = [
@@ -22535,6 +22545,7 @@ webpackJsonp([1],[
 	        'office': 'Cambodia',
 	        'ext': "<strong>8262</strong>",
 	        'startDate': '2014/10/08',
+	        'state': true,
 	        'salary': 114.367
 	    }, {
 	        'name': 'Colette Foley',
@@ -22549,13 +22560,15 @@ webpackJsonp([1],[
 	        'office': 'Suriname',
 	        'ext': '7980',
 	        'startDate': '2015/04/20',
-	        'salary': 264.620
+	        'salary': 264.620,
+	        'state': true
 	    }, {
 	        'name': 'Gabriel Castro',
 	        'position': 'Sed Limited',
 	        'office': 'Bahrain',
 	        'ext': '0757',
 	        'startDate': '2015/03/04',
+	        'state': true,
 	        'salary': 651.350
 	    }, {
 	        'name': 'Cherokee Ware',
@@ -22570,6 +22583,7 @@ webpackJsonp([1],[
 	        'office': 'Western Sahara',
 	        'ext': '6697',
 	        'startDate': '2015/08/13',
+	        'state': true,
 	        'salary': 541.631
 	    }, {
 	        'name': 'Maryam Tucker',
@@ -22584,6 +22598,7 @@ webpackJsonp([1],[
 	        'office': 'United Arab Emirates',
 	        'ext': '4204',
 	        'startDate': '2015/08/01',
+	        'state': true,
 	        'salary': 218.597
 	    }, {
 	        'name': 'Rogan Tucker',
@@ -22598,6 +22613,7 @@ webpackJsonp([1],[
 	        'office': 'New Zealand',
 	        'ext': '3951',
 	        'startDate': '2015/06/02',
+	        'state': true,
 	        'salary': 413.568
 	    }, {
 	        'name': 'Yael Greer',
@@ -22612,6 +22628,7 @@ webpackJsonp([1],[
 	        'office': 'Burundi',
 	        'ext': '4673',
 	        'startDate': '2015/01/12',
+	        'state': true,
 	        'salary': 62.243
 	    }, {
 	        'name': 'Sharon Campbell',
@@ -22626,6 +22643,7 @@ webpackJsonp([1],[
 	        'office': 'Saudi Arabia',
 	        'ext': '0269',
 	        'startDate': '2015/06/07',
+	        'state': true,
 	        'salary': 581.193
 	    }, {
 	        'name': 'Kylie Barlow',
@@ -22640,6 +22658,7 @@ webpackJsonp([1],[
 	        'office': 'Saudi Arabia',
 	        'ext': '4839',
 	        'startDate': '2015/05/29',
+	        'state': true,
 	        'salary': 466.201
 	    }, {
 	        'name': 'Brandon Fleming',
@@ -22654,6 +22673,7 @@ webpackJsonp([1],[
 	        'office': 'Belgium',
 	        'ext': '8140',
 	        'startDate': '2015/05/18',
+	        'state': true,
 	        'salary': 564.245
 	    }, {
 	        'name': 'Arden Russo',
@@ -22668,6 +22688,7 @@ webpackJsonp([1],[
 	        'office': 'Ghana',
 	        'ext': '9266',
 	        'startDate': '2015/06/18',
+	        'state': true,
 	        'salary': 554.375
 	    }, {
 	        'name': 'Dennis York',
@@ -22682,6 +22703,7 @@ webpackJsonp([1],[
 	        'office': 'Namibia',
 	        'ext': '3367',
 	        'startDate': '2015/03/26',
+	        'state': true,
 	        'salary': 598.915
 	    }, {
 	        'name': 'Aurelia Marshall',
@@ -22703,6 +22725,7 @@ webpackJsonp([1],[
 	        'office': 'Mali',
 	        'ext': '5806',
 	        'startDate': '2015/04/19',
+	        'state': true,
 	        'salary': 324.588
 	    }, {
 	        'name': 'Germaine Osborn',
@@ -22717,6 +22740,7 @@ webpackJsonp([1],[
 	        'office': 'Cuba',
 	        'ext': '7860',
 	        'startDate': '2015/01/06',
+	        'state': true,
 	        'salary': 230.072
 	    }, {
 	        'name': 'Brent Stein',
@@ -22731,6 +22755,7 @@ webpackJsonp([1],[
 	        'office': 'Uruguay',
 	        'ext': '1140',
 	        'startDate': '2015/05/16',
+	        'state': true,
 	        'salary': 401.970
 	    }, {
 	        'name': 'Veronica Allison',
@@ -22745,6 +22770,7 @@ webpackJsonp([1],[
 	        'office': 'Mauritius',
 	        'ext': '4767',
 	        'startDate': '2015/03/20',
+	        'state': true,
 	        'salary': 484.299
 	    }, {
 	        'name': 'James Greer',
@@ -22759,6 +22785,7 @@ webpackJsonp([1],[
 	        'office': 'China',
 	        'ext': '3179',
 	        'startDate': '2015/05/27',
+	        'state': true,
 	        'salary': 651.761
 	    }, {
 	        'name': 'Shaeleigh Barr',
@@ -22773,6 +22800,7 @@ webpackJsonp([1],[
 	        'office': 'Isle of Man',
 	        'ext': '9840',
 	        'startDate': '2015/01/12',
+	        'state': true,
 	        'salary': 742.247
 	    }, {
 	        'name': 'Jayme Pace',
@@ -22787,6 +22815,7 @@ webpackJsonp([1],[
 	        'office': 'Zambia',
 	        'ext': '8725',
 	        'startDate': '2015/04/04',
+	        'state': true,
 	        'salary': 791.408
 	    }, {
 	        'name': 'Idola Burns',
@@ -22801,6 +22830,7 @@ webpackJsonp([1],[
 	        'office': 'Mauritania',
 	        'ext': '2033',
 	        'startDate': '2014/11/21',
+	        'state': true,
 	        'salary': 226.591
 	    }, {
 	        'name': 'Nichole Salas',
@@ -22815,6 +22845,7 @@ webpackJsonp([1],[
 	        'office': 'Brazil',
 	        'ext': '2227',
 	        'startDate': '2015/02/28',
+	        'state': true,
 	        'salary': 655.052
 	    }, {
 	        'name': 'Asher Rich',
@@ -22829,6 +22860,7 @@ webpackJsonp([1],[
 	        'office': 'Papua New Guinea',
 	        'ext': '5416',
 	        'startDate': '2015/02/12',
+	        'state': true,
 	        'salary': 562.194
 	    }, {
 	        'name': 'James Dorsey',
@@ -22843,6 +22875,7 @@ webpackJsonp([1],[
 	        'office': 'Australia',
 	        'ext': '6466',
 	        'startDate': '2015/01/30',
+	        'state': true,
 	        'salary': 343.476
 	    }, {
 	        'name': 'Meghan Stephens',
@@ -22864,6 +22897,7 @@ webpackJsonp([1],[
 	        'office': 'France',
 	        'ext': '3907',
 	        'startDate': '2015/03/26',
+	        'state': true,
 	        'salary': 314.260
 	    }, {
 	        'name': 'Uriel Carson',
@@ -22885,6 +22919,7 @@ webpackJsonp([1],[
 	        'office': 'Macao',
 	        'ext': '4771',
 	        'startDate': '2015/06/30',
+	        'state': true,
 	        'salary': 72.295
 	    }, {
 	        'name': 'Josephine Sykes',
@@ -23226,9 +23261,9 @@ webpackJsonp([1],[
 	];
 	
 
-/***/ },
+/***/ }),
 /* 524 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -23264,6 +23299,8 @@ webpackJsonp([1],[
 	            idRow: 'name'
 	        };
 	        this.editConfig = {
+	            'title': 'Select me',
+	            className: 'edit-column-class',
 	            edit: {
 	                className: 'btn btn-rounded btn-success',
 	                icon: 'fa fa-pencil-square'
@@ -23274,7 +23311,9 @@ webpackJsonp([1],[
 	            },
 	            select: {
 	                name: 'selection',
-	                keyProperty: 'name'
+	                keyProperty: 'name',
+	                stateProperty: 'state',
+	                className: 'checkbox-class'
 	            }
 	        };
 	        this.data = table_data_1.TableData;
@@ -23384,6 +23423,7 @@ webpackJsonp([1],[
 	    TableDemoComponent = __decorate([
 	        core_1.Component({
 	            selector: 'table-demo',
+	            styles: ['/deep/ .edit-column-class {white-space: nowrap}'],
 	            template: template
 	        }), 
 	        __metadata('design:paramtypes', [])
@@ -23393,9 +23433,9 @@ webpackJsonp([1],[
 	exports.TableDemoComponent = TableDemoComponent;
 	
 
-/***/ },
+/***/ }),
 /* 525 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -23415,9 +23455,9 @@ webpackJsonp([1],[
 	exports.DemoComponent = DemoComponent;
 	
 
-/***/ },
+/***/ }),
 /* 526 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
 	var core_1 = __webpack_require__(3);
@@ -23458,6 +23498,6 @@ webpackJsonp([1],[
 	exports.Ng2TableDemoModule = Ng2TableDemoModule;
 	
 
-/***/ }
+/***/ })
 ]);
 //# sourceMappingURL=main.map
