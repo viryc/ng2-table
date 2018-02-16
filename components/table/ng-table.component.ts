@@ -8,8 +8,9 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
            role="grid" style="width: 100%;">
       <thead>
         <tr role="row">
-          <th *ngIf="editConfig.show">
-            {{ editConfig.title }}
+          <th *ngIf="editConfig.show" ngClass="{{editConfig.className || ''}}">
+            <input type="checkbox" name="all" [checked]="isAllChecked()" (change)="checkAll($event)"/>
+            <span ngClass="{{editConfig.select.className || ''}}">{{ editConfig.title }}</span>
           </th>
           <th *ngFor="let column of columns" [ngTableSorting]="config" [column]="column" 
               (sortChanged)="onSortChanged($event)" ngClass="{{column.className || ''}}">
@@ -32,7 +33,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
       </tr>
         <tr *ngFor="let row of rows; trackBy: trackByRow">
           <td *ngIf="editConfig.show" ngClass="{{editConfig.className || ''}}">
-            <input *ngIf="editConfig.select" type="checkbox" [name]="editConfig.select.name" [id]="row[editConfig.select.keyProperty]" ngClass="{{editConfig.select.className || ''}}" (change)="onSelectChange($event.target.checked, row[editConfig.select.keyProperty])" />
+            <input *ngIf="editConfig.select" type="checkbox" [(checked)]="row[editConfig.select.stateProperty]" [name]="editConfig.select.name" [id]="row[editConfig.select.keyProperty]" ngClass="{{editConfig.select.className || ''}}" (change)="onSelectChange($event.target.checked, row, editConfig.select.keyProperty)" />
             <button *ngIf="editConfig.edit" type="button" ngClass="{{editConfig.edit.className || ''}}" (click)="onEdit(row)"><span *ngIf="editConfig.edit.icon" [class]="editConfig.edit.icon"></span>{{ editConfig.edit.title }}</button>
             <button *ngIf="editConfig.delete" type="button" ngClass="{{editConfig.delete.className || ''}}" (click)="onDelete(row)"><span *ngIf="editConfig.delete.icon" [class]="editConfig.delete.icon"></span>{{ editConfig.delete.title }}</button>
           </td>
@@ -70,6 +71,7 @@ export class NgTableComponent {
 
   @Input()
   public set columns(values:Array<any>) {
+    console.log(values)
     values.forEach((value:any) => {
       if (value.filtering) {
         this.showFilterRow = true;
@@ -190,7 +192,8 @@ export class NgTableComponent {
     this.cellClicked.emit({row, column});
   }
 
-  public onSelectChange(checked: boolean, key: any): void {
+  public onSelectChange(checked:boolean, row:any, key:string): void {
+    row[this._editConfig.select.stateProperty] = checked;
     this.selectChange.emit({selected: checked, key: key});
   }
 
@@ -207,5 +210,13 @@ export class NgTableComponent {
       return row[this.config.idRow];
     }
     return index;
+  }
+
+  checkAll(ev:any) {
+    this.rows.forEach(row  => row[this._editConfig.select.stateProperty] = ev.target.checked);
+  }
+
+  isAllChecked() {
+    return this.rows.every(row => row[this._editConfig.select.stateProperty]);
   }
 }

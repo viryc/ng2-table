@@ -1,7 +1,7 @@
 {
-  "name": "lluchmk-ng2-table",
-  "version": "1.2.1",
-  "description": "Fork of ng2-table including some edition options",
+  "name": "ng2-table",
+  "version": "0.0.1",
+  "description": "Fork of lluchmk-ng2-table",
   "scripts": {
     "flow.compile": "npm run flow.compile:common && npm run flow.compile:system ",
     "flow.compile:common": "ngc -p tsconfig.publish.json",
@@ -16,8 +16,8 @@
     "flow.github-release": "conventional-github-releaser -p angular",
     "flow.build:prod": "SET NODE_ENV=production & webpack --progress --color",
     "flow.build:dev": "webpack --progress --color",
-    "flow.serve:dev": "webpack-dev-server --hot --inline --colors --display-error-details --display-cached",
-    "flow.serve:prod": "SET NODE_ENV=production & webpack-dev-server --hot --inline --colors --display-error-details --display-cached",
+    "flow.serve:dev": "webpack-dev-server --hot --inline",
+    "flow.serve:prod": "SET NODE_ENV=production & webpack-dev-server --hot --inline",
     "prepublish": "npm run flow.clean && npm run flow.compile",
     "postpublish": "npm run flow.deploy:gh-pages",
     "start": "npm run flow.serve:dev",
@@ -35,16 +35,16 @@
     "filter",
     "sort"
   ],
-  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>, Kevin Lluch <lluchmk@gmail.com>",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lluchmk/ng2-table"
+    "url": "git+ssh://git@github.com/viryc/ng2-table"
   },
   "bugs": {
-    "url": "https://github.com/lluchmk/ng2-table/issues"
+    "url": "https://github.com/viryc/ng2-table/issues"
   },
-  "homepage": "https://github.com/lluchmk/ng2-table#readme",
+  "homepage": "https://github.com/viryc/ng2-table#readme",
   "dependencies": {
     "@angular/cli": "^1.4.9"
   },
@@ -94,6 +94,8 @@
     "systemjs-builder": "0.15.32",
     "tslint-config-valorsoft": "1.1.1",
     "typescript": "2.0.3",
+    "webpack": "1.15.0",
+    "webpack-dev-server": "1.15.0",
     "zone.js": "0.6.25"
   }
 }

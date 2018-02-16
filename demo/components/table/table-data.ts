@@ -12,6 +12,7 @@ export const TableData:Array<any> = [
     'office': 'Cambodia',
     'ext': `<strong>8262</strong>`,
     'startDate': '2014/10/08',
+    'state': true,
     'salary': 114.367
   }, {
     'name': 'Colette Foley',
@@ -26,13 +27,15 @@ export const TableData:Array<any> = [
     'office': 'Suriname',
     'ext': '7980',
     'startDate': '2015/04/20',
-    'salary': 264.620
+    'salary': 264.620,
+    'state': true
   }, {
     'name': 'Gabriel Castro',
     'position': 'Sed Limited',
     'office': 'Bahrain',
     'ext': '0757',
     'startDate': '2015/03/04',
+    'state': true,
     'salary': 651.350
   }, {
     'name': 'Cherokee Ware',
@@ -47,6 +50,7 @@ export const TableData:Array<any> = [
     'office': 'Western Sahara',
     'ext': '6697',
     'startDate': '2015/08/13',
+    'state': true,
     'salary': 541.631
   }, {
     'name': 'Maryam Tucker',
@@ -61,6 +65,7 @@ export const TableData:Array<any> = [
     'office': 'United Arab Emirates',
     'ext': '4204',
     'startDate': '2015/08/01',
+    'state': true,
     'salary': 218.597
   }, {
     'name': 'Rogan Tucker',
@@ -75,6 +80,7 @@ export const TableData:Array<any> = [
     'office': 'New Zealand',
     'ext': '3951',
     'startDate': '2015/06/02',
+    'state': true,
     'salary': 413.568
   }, {
     'name': 'Yael Greer',
@@ -89,6 +95,7 @@ export const TableData:Array<any> = [
     'office': 'Burundi',
     'ext': '4673',
     'startDate': '2015/01/12',
+    'state': true,
     'salary': 62.243
   }, {
     'name': 'Sharon Campbell',
@@ -103,6 +110,7 @@ export const TableData:Array<any> = [
     'office': 'Saudi Arabia',
     'ext': '0269',
     'startDate': '2015/06/07',
+    'state': true,
     'salary': 581.193
   }, {
     'name': 'Kylie Barlow',
@@ -117,6 +125,7 @@ export const TableData:Array<any> = [
     'office': 'Saudi Arabia',
     'ext': '4839',
     'startDate': '2015/05/29',
+    'state': true,
     'salary': 466.201
   }, {
     'name': 'Brandon Fleming',
@@ -131,6 +140,7 @@ export const TableData:Array<any> = [
     'office': 'Belgium',
     'ext': '8140',
     'startDate': '2015/05/18',
+    'state': true,
     'salary': 564.245
   }, {
     'name': 'Arden Russo',
@@ -145,6 +155,7 @@ export const TableData:Array<any> = [
     'office': 'Ghana',
     'ext': '9266',
     'startDate': '2015/06/18',
+    'state': true,
     'salary': 554.375
   }, {
     'name': 'Dennis York',
@@ -159,6 +170,7 @@ export const TableData:Array<any> = [
     'office': 'Namibia',
     'ext': '3367',
     'startDate': '2015/03/26',
+    'state': true,
     'salary': 598.915
   }, {
     'name': 'Aurelia Marshall',
@@ -180,6 +192,7 @@ export const TableData:Array<any> = [
     'office': 'Mali',
     'ext': '5806',
     'startDate': '2015/04/19',
+    'state': true,
     'salary': 324.588
   }, {
     'name': 'Germaine Osborn',
@@ -194,6 +207,7 @@ export const TableData:Array<any> = [
     'office': 'Cuba',
     'ext': '7860',
     'startDate': '2015/01/06',
+    'state': true,
     'salary': 230.072
   }, {
     'name': 'Brent Stein',
@@ -208,6 +222,7 @@ export const TableData:Array<any> = [
     'office': 'Uruguay',
     'ext': '1140',
     'startDate': '2015/05/16',
+    'state': true,
     'salary': 401.970
   }, {
     'name': 'Veronica Allison',
@@ -222,6 +237,7 @@ export const TableData:Array<any> = [
     'office': 'Mauritius',
     'ext': '4767',
     'startDate': '2015/03/20',
+    'state': true,
     'salary': 484.299
   }, {
     'name': 'James Greer',
@@ -236,6 +252,7 @@ export const TableData:Array<any> = [
     'office': 'China',
     'ext': '3179',
     'startDate': '2015/05/27',
+    'state': true,
     'salary': 651.761
   }, {
     'name': 'Shaeleigh Barr',
@@ -250,6 +267,7 @@ export const TableData:Array<any> = [
     'office': 'Isle of Man',
     'ext': '9840',
     'startDate': '2015/01/12',
+    'state': true,
     'salary': 742.247
   }, {
     'name': 'Jayme Pace',
@@ -264,6 +282,7 @@ export const TableData:Array<any> = [
     'office': 'Zambia',
     'ext': '8725',
     'startDate': '2015/04/04',
+    'state': true,
     'salary': 791.408
   }, {
     'name': 'Idola Burns',
@@ -278,6 +297,7 @@ export const TableData:Array<any> = [
     'office': 'Mauritania',
     'ext': '2033',
     'startDate': '2014/11/21',
+    'state': true,
     'salary': 226.591
   }, {
     'name': 'Nichole Salas',
@@ -292,6 +312,7 @@ export const TableData:Array<any> = [
     'office': 'Brazil',
     'ext': '2227',
     'startDate': '2015/02/28',
+    'state': true,
     'salary': 655.052
   }, {
     'name': 'Asher Rich',
@@ -306,6 +327,7 @@ export const TableData:Array<any> = [
     'office': 'Papua New Guinea',
     'ext': '5416',
     'startDate': '2015/02/12',
+    'state': true,
     'salary': 562.194
   }, {
     'name': 'James Dorsey',
@@ -320,6 +342,7 @@ export const TableData:Array<any> = [
     'office': 'Australia',
     'ext': '6466',
     'startDate': '2015/01/30',
+    'state': true,
     'salary': 343.476
   }, {
     'name': 'Meghan Stephens',
@@ -341,6 +364,7 @@ export const TableData:Array<any> = [
     'office': 'France',
     'ext': '3907',
     'startDate': '2015/03/26',
+    'state': true,
     'salary': 314.260
   }, {
     'name': 'Uriel Carson',
@@ -362,6 +386,7 @@ export const TableData:Array<any> = [
     'office': 'Macao',
     'ext': '4771',
     'startDate': '2015/06/30',
+    'state': true,
     'salary': 72.295
   }, {
     'name': 'Josephine Sykes',

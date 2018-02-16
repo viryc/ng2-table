@@ -6,6 +6,7 @@ let template = require('./table-demo.html');
 
 @Component({
   selector: 'table-demo',
+  styles: ['/deep/ .edit-column-class {white-space: nowrap}'],
   template
 })
 export class TableDemoComponent implements OnInit {
@@ -38,6 +39,8 @@ export class TableDemoComponent implements OnInit {
   };
 
   public editConfig: any = {
+    'title': 'Select me',
+    className: 'edit-column-class',
     edit: {
       className: 'btn btn-rounded btn-success',
       icon: 'fa fa-pencil-square'
@@ -48,7 +51,9 @@ export class TableDemoComponent implements OnInit {
     },
     select: {
       name: 'selection',
-      keyProperty: 'name'
+      keyProperty: 'name',
+      stateProperty: 'state',
+      className: 'checkbox-class'
     }
   };
 
