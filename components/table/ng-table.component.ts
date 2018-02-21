@@ -71,7 +71,6 @@ export class NgTableComponent {
 
   @Input()
   public set columns(values:Array<any>) {
-    console.log(values)
     values.forEach((value:any) => {
       if (value.filtering) {
         this.showFilterRow = true;

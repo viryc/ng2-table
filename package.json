@@ -1,7 +1,7 @@
 {
-  "name": "ng2-table",
-  "version": "0.0.1",
-  "description": "Fork of lluchmk-ng2-table",
+  "name": "viryc-ng2-table",
+  "version": "0.0.2",
+  "description": "Fork of lluchmk-ng2-table which allows setting edit checkboxes initial values",
   "scripts": {
     "flow.compile": "npm run flow.compile:common && npm run flow.compile:system ",
     "flow.compile:common": "ngc -p tsconfig.publish.json",
@@ -35,7 +35,7 @@
     "filter",
     "sort"
   ],
-  "author": "",
+  "author": "viryc",
   "license": "MIT",
   "repository": {
     "type": "git",
